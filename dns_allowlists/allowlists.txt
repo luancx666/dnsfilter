@@ -1,2 +1,2 @@
-@@||www.baidu.com^$important
-@@||www.bilibili.com^$important
+@@||www.baidu.com^
+@@||www.bilibili.com^
