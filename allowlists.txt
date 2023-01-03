@@ -1,1 +1,23 @@
 ! 白名单
+
+@@||www.baidu.com^
+@@||www.bilibili.com^
+@@||gbres.dfcfw.com^
+@@||www.huawei.com^
+@@||www-file.huawei.com^
+@@||fsoufsou.com^
+@@||s3gw.cmbimg.com^
+@@||suijimimashengcheng.51240.com^
+@@||suijimimashengcheng.bmcx.com^
+@@||f.bmcx.com^
+@@||pdf.dfcfw.com^
+@@||audid-api.taobao.com^
+@@||www.epicgames.com^
+@@||file.myqcloud.com^
+@@||events.jianshu.io^
+@@||mail.qq.com/cgi-bin/readmail^
+@@||h.trace.qq.com^
+@@||xueqiu.com^
+@@||qiniustaticopencdn.jomodns.com^
+@@||95516.com^
+@@||get.sogou.com^
