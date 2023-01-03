@@ -1,27 +1,27 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.03.1433
+! Version: 23.01.03.1511
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
 !
+@@||suijimimashengcheng.51240.com^
 @@||95516.com^
-@@||audid-api.taobao.com^
 @@||baidu.com^
 @@||bilibili.com^
-@@||epicgames.com^
-@@||events.jianshu.io^
-@@||f.bmcx.com^
-@@||fsoufsou.com^
-@@||file.myqcloud.com^
-@@||pdf.dfcfw.com^
-@@||gbres.dfcfw.com^
-@@||huawei.com^
 @@||s3gw.cmbimg.com^
-@@||suijimimashengcheng.51240.com^
+@@||f.bmcx.com^
 @@||suijimimashengcheng.bmcx.com^
+@@||pdf.dfcfw.com^
+@@||www.douyin.com^
+@@||epicgames.com^
+@@||fsoufsou.com^
+@@||huawei.com^
+@@||qiniustaticopencdn.jomodns.com^
+@@||file.myqcloud.com^
 @@||mail.qq.com/cgi-bin/readmail^
 @@||h.trace.qq.com^
-@@||xueqiu.com^
-@@||qiniustaticopencdn.jomodns.com^
 @@||get.sogou.com^
+@@||audid-api.taobao.com^
+@@||xueqiu.com^
+@@||events.jianshu.io^
