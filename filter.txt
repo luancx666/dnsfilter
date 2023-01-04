@@ -8,6 +8,7 @@
 ! 其他
 ||09.huichatu.com^
 ||12y04.747dhnewtg01.com^
+! 豆瓣
 ||api.douban.com^
 ||artery.douban.com^
 ||push.douban.com
