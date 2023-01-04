@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.03.1511
+! Version: 23.01.04.1724
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,14 +9,15 @@
 @@||www.95516.com^
 @@||www.baidu.com^
 @@||www.bilibili.com^
-@@||s3gw.cmbimg.com^
 @@||f.bmcx.com^
 @@||suijimimashengcheng.bmcx.com^
+@@||s3gw.cmbimg.com^
 @@||pdf.dfcfw.com^
+@@||www.douban.com
 @@||www.douyin.com^
-@@||epicgames.com^
-@@||fsoufsou.com^
-@@||huawei.com^
+@@||www.epicgames.com^
+@@||www.fsoufsou.com^
+@@||www.huawei.com^
 @@||qiniustaticopencdn.jomodns.com^
 @@||file.myqcloud.com^
 @@||mail.qq.com/cgi-bin/readmail^
