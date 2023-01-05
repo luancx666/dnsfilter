@@ -1,6 +1,6 @@
 ! Title: 拦截地址
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.05.1038
+! Version: 23.01.05.1150
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,5 +18,5 @@
 ! 拼多多
 ||images.pinduoduo.com^
 ||t-dsp.pinduoduo.com^
-||qzonestyle.gtimg.cn^
+
 
