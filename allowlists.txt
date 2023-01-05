@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.05.1021
+! Version: 23.01.05.1026
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,6 +14,7 @@
 ! 招商银行
 @@||s3gw.cmbimg.com^
 @@||img.mb.cmbimg.com^
+@@||img.mb.cmbimg.com.w.cdngslb.com^
 ! 东方财富
 @@||pdf.dfcfw.com^
 @@||www.douban.com
