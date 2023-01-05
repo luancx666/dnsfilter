@@ -1,6 +1,6 @@
 ! Title: 拦截地址
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.05.1021
+! Version: 23.01.05.1038
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,10 +14,9 @@
 ||push.douban.com
 ||qnmob3.doubanio.com^
 ! 微信
-||mp.weixin.qq.com^$important
-||szquic.weixin.qq.com^$important
+||szquic.weixin.qq.com^
 ! 拼多多
 ||images.pinduoduo.com^
-||t-dsp.pinduoduo.com^$important
-||qzonestyle.gtimg.cn^$important
+||t-dsp.pinduoduo.com^
+||qzonestyle.gtimg.cn^
 
