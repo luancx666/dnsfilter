@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.05.1038
+! Version: 23.01.05.1057
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,16 +36,7 @@
 @@||audid-api.taobao.com^
 ! 雪球
 @@||www.xueqiu.com^
-@@||im0.xueqiu.com^
-@@||im1.xueqiu.com^
-@@||im2.xueqiu.com^
-@@||im3.xueqiu.com^
-@@||im4.xueqiu.com^
-@@||im5.xueqiu.com^
-@@||im6.xueqiu.com^
-@@||im7.xueqiu.com^
-@@||im8.xueqiu.com^
-@@||im9.xueqiu.com^
+@@||im*.xueqiu.com^
 @@||assets.imedao.com^
 @@||xqdoc.imedao.com^
 @@||xavatar.imedao.com^
