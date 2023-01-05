@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.05.1008
+! Version: 23.01.05.1021
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
@@ -11,7 +11,10 @@
 @@||www.bilibili.com^
 @@||f.bmcx.com^
 @@||suijimimashengcheng.bmcx.com^
+! 招商银行
 @@||s3gw.cmbimg.com^
+@@||img.mb.cmbimg.com^
+! 东方财富
 @@||pdf.dfcfw.com^
 @@||www.douban.com
 @@||www.douyin.com^
@@ -25,6 +28,7 @@
 @@||audid-api.taobao.com^
 ! 雪球
 @@||www.xueqiu.com^
+@@||im0.xueqiu.com^
 @@||im1.xueqiu.com^
 @@||im2.xueqiu.com^
 @@||im3.xueqiu.com^
