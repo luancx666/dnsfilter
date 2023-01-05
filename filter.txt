@@ -1,6 +1,6 @@
 ! Title: 拦截地址
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.04.1724
+! Version: 23.01.05.0927
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.04.1724
+! Version: 23.01.05.0927
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,7 +18,6 @@
 @@||www.epicgames.com^
 @@||www.fsoufsou.com^
 @@||www.huawei.com^
-@@||qiniustaticopencdn.jomodns.com^
 @@||file.myqcloud.com^
 @@||mail.qq.com/cgi-bin/readmail^
 @@||h.trace.qq.com^
