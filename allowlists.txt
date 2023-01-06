@@ -29,7 +29,7 @@
 @@||www.epicgames.com^
 @@||www.fsoufsou.com^
 @@||www.huawei.com^
-! 微信读书
+! 腾讯云-文件服务
 @@||file.myqcloud.com^
 @@||mail.qq.com/cgi-bin/readmail^
 @@||h.trace.qq.com^
