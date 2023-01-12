@@ -1,10 +1,12 @@
-! Title: 拦截地址
+! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.09.1736
+! Version: 23.01.12.1252
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !-------------------------------------------------------------------------------------------------------------------------------------------
 !
+!
+||push*^
 ! 其他
 ||09.huichatu.com^
 ||12y04.747dhnewtg01.com^
