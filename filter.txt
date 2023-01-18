@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.18.1318
+! Version: 23.01.18.1438
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -13,7 +13,6 @@
 ! 豆瓣
 ||api.douban.com^
 ||artery.douban.com^
-||push.douban.com
 ||qnmob3.doubanio.com^
 ! 微信
 ||dns.weixin.qq.com.cn^
@@ -24,7 +23,6 @@
 ||ug.qbimg.qq.com^
 ||gmaster-30142.sz.gfp.tencent-cloud.com^
 ||newsc.html5.qq.com^
-||novel.html5.qq.com^
 ! 美团
 ||httpdns.meituan.com^
 ! 拼多多
@@ -36,4 +34,6 @@
 ||pushservice.10010.com.w.cdngslb.com^
 ! 京东
 ||im-x.jd.com.gslb.qianxun.com^
+! apple
+||gateway.fe.apple-dns.net^
 
