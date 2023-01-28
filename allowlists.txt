@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.18.1719
+! Version: 23.01.28.1700
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -57,4 +57,6 @@
 @@||api.weibo.cn^
 ! 饿了么
 @@||sjarvis.taobao.com^
+! 搜狗输入法
+@@||get.sogou.com^
 
