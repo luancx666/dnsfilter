@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.30.1051
+! Version: 23.01.30.1446
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -44,7 +44,6 @@
 ! 微信读书
 @@||lambda.at.qq.com^
 ! 雪球
-@@||xueqiu.com^
 @@||www.xueqiu.com^
 @@||im*.xueqiu.com^
 @@||assets.imedao.com^
