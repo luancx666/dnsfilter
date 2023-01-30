@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.30.1050
+! Version: 23.01.30.1051
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -21,6 +21,7 @@
 @@||pdf.dfcfw.com^
 @@||push2.eastmoney.com^
 @@||push2ex.eastmoney.com^
+@@||push2his.eastmoney.com^
 ! 豆瓣
 @@||www.douban.com^
 @@||img1.doubanio.com^
