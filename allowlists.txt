@@ -1,12 +1,10 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.01.30.1446
+! Version: 23.02.15.1612
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
-@@||suijimimashengcheng.51240.com^
-@@||suijimimashengcheng.bmcx.com^
 ! 银联
 @@||www.95516.com^
 ! 百度
