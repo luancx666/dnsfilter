@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.02.15.1612
+! Version: 23.03.06.1826
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -54,10 +54,13 @@
 @@||qzonestyle.gtimg.cn^
 ! 苹果天气
 @@||weather-data.apple.com^
+@@||weather-analytics-events.apple.com^$important
 ! 微博
 @@||api.weibo.cn^
 ! 饿了么
 @@||sjarvis.taobao.com^
 ! 搜狗输入法
 @@||get.sogou.com^
+! 飞卢
+@@||s.faloo.com^$important
 
