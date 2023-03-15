@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.03.15.1658
+! Version: 23.03.15.1710
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -46,6 +46,8 @@
 ||valf.atm.youku.com/vf*
 ||cmstool.youku.com/*.swf$object-subrequest
 ||valf.atm.youku.com/vi*
+! 个推
+||gepush.com^
 ! 广告
 ||m.saiyouedu.net^
 ! 其他
