@@ -1,3 +1,66 @@
-www.baidu.com
-
+! Title: 白名单
+! Description: 个人使用 Just for personal using
+! Version: 23.03.06.1826
+! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
+!
+!----------------------------------------------------------------------------------------------------------------------
+!
+! 银联
+@@||www.95516.com^
+! 百度
+@@||www.baidu.com^
+! B站
+@@||www.bilibili.com^
+! 招商银行
+@@||s3gw.cmbimg.com^
+@@||img.mb.cmbimg.com^
+@@||img.mb.cmbimg.com.w.cdngslb.com^
+! 东方财富
+@@||pdf.dfcfw.com^
+@@||push2.eastmoney.com^
+@@||push2ex.eastmoney.com^
+@@||push2his.eastmoney.com^
+! 豆瓣
+@@||www.douban.com^
+@@||img1.doubanio.com^
+@@||img2.doubanio.com^
+@@||img3.doubanio.com^
+@@||img9.doubanio.com^
+@@||qnmob3.doubanio.com^
+! 抖音
+@@||www.douyin.com^
+! EPIC
+@@||www.epicgames.com^
+@@||www.fsoufsou.com^
+@@||www.huawei.com^
+! 腾讯
+@@||file.myqcloud.com^
+@@||mail.qq.com/cgi-bin/readmail^
+@@||h.trace.qq.com^
+@@||inews.gtimg.com^
+@@||audid-api.taobao.com^
+! 微信读书
+@@||lambda.at.qq.com^
+! 雪球
+@@||www.xueqiu.com^
+@@||im*.xueqiu.com^
+@@||assets.imedao.com^
+@@||xqdoc.imedao.com^
+@@||xavatar.imedao.com^
+@@||xqimg.imedao.com^
+! 简书
+@@||events.jianshu.io^
+! QQ空间样式
+@@||qzonestyle.gtimg.cn^
+! 苹果天气
+@@||weather-data.apple.com^
+@@||weather-analytics-events.apple.com^$important
+! 微博
+@@||api.weibo.cn^
+! 饿了么
+@@||sjarvis.taobao.com^
+! 搜狗输入法
+@@||get.sogou.com^
+! 飞卢
+@@||s.faloo.com^$important
 
