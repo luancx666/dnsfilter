@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.03.15.1732
+! Version: 23.03.15.1805
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -10,6 +10,8 @@
 ||api.douban.com^
 ||artery.douban.com^
 ||qnmob3.doubanio.com^
+||adserver.douban.com^
+||ad.douban.com^
 ! 抖音
 ||ad.toutiao.com^
 ||ad.bytedance.com^
@@ -55,6 +57,12 @@
 ||valf.atm.youku.com/vf*
 ||cmstool.youku.com/*.swf$object-subrequest
 ||valf.atm.youku.com/vi*
+! 哔哩哔哩
+||adse.bilibili.com^
+||s77.cnzz.com^
+! 今日头条
+||ad.toutiao.com^
+||pangolin.snssdk.com^
 ! 个推
 ||gepush.com^
 ! 广告
