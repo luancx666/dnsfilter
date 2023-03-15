@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.03.10.1527
+! Version: 23.03.15.1658
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -32,6 +32,7 @@
 ||im-x.jd.com.gslb.qianxun.com^
 ! 喜马拉雅
 ||ar.ximalaya.com^
+||adse.ximalaya.com^
 ||m.ximalaya.com^
 ||mp.ximalaya.com^
 ||mobile.ctc.ximalaya.com^
@@ -40,6 +41,11 @@
 ||audio.pcdn.xmcdn.com^
 ||mktsound.cos.tx.xmcdn.com^
 ||aod.cos.tx.xmcdn.com^
+! 优酷
+||c.ykimg.com/imovie/*adshow*
+||valf.atm.youku.com/vf*
+||cmstool.youku.com/*.swf$object-subrequest
+||valf.atm.youku.com/vi*
 ! 广告
 ||m.saiyouedu.net^
 ! 其他
