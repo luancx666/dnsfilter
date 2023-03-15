@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.03.15.1710
+! Version: 23.03.15.1732
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -10,15 +10,23 @@
 ||api.douban.com^
 ||artery.douban.com^
 ||qnmob3.doubanio.com^
+! 抖音
+||ad.toutiao.com^
+||ad.bytedance.com^
 ! 微信
+||adsfile.qq.com^
 ||dns.weixin.qq.com.cn^
 ||szquic.weixin.qq.com^
+||mp.weixin.qq.com^$third-party
 ! QQ浏览器
 ||static.res.qq.com^
 ||qbdsp.html5.qq.com^
 ||ug.qbimg.qq.com^
 ||gmaster-30142.sz.gfp.tencent-cloud.com^
 ||newsc.html5.qq.com^
+||qbrowser.qq.com^$third-party
+||btrace.qq.com^$third-party
+||v.qq.com^$third-party
 ! 美团
 ||httpdns.meituan.com^
 ! 拼多多
@@ -33,6 +41,7 @@
 ! 喜马拉雅
 ||ar.ximalaya.com^
 ||adse.ximalaya.com^
+||ads.service.kspkg.com^
 ||m.ximalaya.com^
 ||mp.ximalaya.com^
 ||mobile.ctc.ximalaya.com^
