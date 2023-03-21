@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.03.17.1700
+! Version: 23.03.21.0943
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -68,13 +68,18 @@
 ||pangolin.snssdk.com^
 ! 个推
 ||getui.net^
+||getui.com^
 ||gepush.com^
 ! 友盟
 ||umeng.com^
 ! 广告
 ||m.saiyouedu.net^
+||adukwai.com^
+||queniubm.com^
+||queniuiy.com^
 ! 其他
 ||09.huichatu.com^
 ||12y04.747dhnewtg01.com^
 ||zhangmenglong.cn^
+||pool.ntp.org^
 
