@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.03.21.0943
+! Version: 23.03.21.1110
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -27,8 +27,6 @@
 @@||www.douyin.com^
 ! EPIC
 @@||www.epicgames.com^
-@@||www.fsoufsou.com^
-@@||www.huawei.com^
 ! 腾讯
 @@||file.myqcloud.com^
 @@||mail.qq.com/cgi-bin/readmail^
@@ -48,7 +46,8 @@
 @@||events.jianshu.io^
 ! QQ空间样式
 @@||qzonestyle.gtimg.cn^
-! 苹果天气
+! 苹果
+@@||metrics.icloud.com^
 @@||weather-data.apple.com^
 @@||weather-analytics-events.apple.com^$important
 ! 微博
@@ -59,4 +58,7 @@
 @@||get.sogou.com^
 ! 飞卢
 @@||s.faloo.com^$important
-
+! F搜
+@@||www.fsoufsou.com^
+! 华为
+@@||www.huawei.com^

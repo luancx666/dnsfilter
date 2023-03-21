@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.03.21.0943
+! Version: 23.03.21.1110
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -66,6 +66,8 @@
 ! 今日头条
 ||ad.toutiao.com^
 ||pangolin.snssdk.com^
+! 东方财富
+||bduserlog.eastmoney.com^
 ! 个推
 ||getui.net^
 ||getui.com^
