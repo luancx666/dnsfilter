@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.03.21.1123
+! Version: 23.03.31.0912
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -15,6 +15,8 @@
 ! 抖音
 ||ad.toutiao.com^
 ||ad.bytedance.com^
+! 淘宝
+||imprchmp.taboola.com^
 ! 微信
 ||adsfile.qq.com^
 ||dns.weixin.qq.com.cn^
@@ -23,14 +25,17 @@
 ! QQ浏览器
 ||static.res.qq.com^
 ||qbdsp.html5.qq.com^
+||gatherer.m.qq.com^
 ||ug.qbimg.qq.com^
 ||gmaster-30142.sz.gfp.tencent-cloud.com^
 ||newsc.html5.qq.com^
 ||qbrowser.qq.com^$third-party
 ||btrace.qq.com^$third-party
 ||v.qq.com^$third-party
+||qbnovel.qq.com^$important
 ! 美团
 ||httpdns.meituan.com^
+||metrics-picture.d.meituan.net^$important
 ! 拼多多
 ||images.pinduoduo.com^
 ||t-dsp.pinduoduo.com^
@@ -43,6 +48,7 @@
 ! 雪球
 ||ad.xueqiu.com^
 ||api.xueqiu.com/ads^
+||xueqiu.glsc.com.cn^$important
 ! 喜马拉雅
 ||ar.ximalaya.com^
 ||adse.ximalaya.com^
@@ -86,5 +92,5 @@
 ||pool.ntp.org^
 ||6sc.co^
 ||adjust.io^
-||imprchmp.taboola.com^
+||f129.glsc.com.cn^$important
 
