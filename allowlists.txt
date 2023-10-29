@@ -18,6 +18,9 @@
 ! 东方财富
 @@||pdf.dfcfw.com^
 @@||np-newsimg.dfcfw.com^
+@@||np-newspic.dfcfw.com^
+@@||bdwblog.eastmoney.com^
+@@||gbres.dfcfw.com^
 ! 豆瓣
 @@||www.douban.com^
 @@||img1.doubanio.com^
