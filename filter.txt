@@ -8,3 +8,5 @@
 # >> M <<
 ||mmstat.com^
 
+# >> W <<
+||ad.passport.weibo.cn^
