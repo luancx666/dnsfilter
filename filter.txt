@@ -1,13 +1,12 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 23.05.08.0952
+! Version: 24.05.19.1709
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
 ||push*^
 ! 豆瓣
-||api.douban.com^
 ||artery.douban.com^
 ||qnmob3.doubanio.com^
 ||adserver.douban.com^
@@ -88,6 +87,7 @@
 ||adukwai.com^
 ||queniubm.com^
 ||queniuiy.com^
+||mmstat.com^
 ! 其他
 ||09.huichatu.com^
 ||12y04.747dhnewtg01.com^
