@@ -1,10 +1,13 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.05.19.1709
+! Version: 24.05.20.2310
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
+# >> D <<
+||amonsul.douban.com^
+
 # >> M <<
 ||mmstat.com^
 
