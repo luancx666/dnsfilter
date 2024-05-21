@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.05.20.2310
+! Version: 24.05.21.2020
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -10,6 +10,11 @@
 
 # >> M <<
 ||mmstat.com^
+||ad.mi.com^
 
 # >> W <<
 ||ad.passport.weibo.cn^
+
+# >> X <<
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
