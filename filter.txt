@@ -1,16 +1,84 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.05.21.2020
+! Version: 24.06.05.1620
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
+# >> 1 <<
+||1010pic.com^
+||ad.12306.cn^
+
+# >> A <<
+||advertising.apple.com^
+
+# >> B <<
+||mtj.baidu.com^
+
+# >> C <<
+||data.chsmarttv.com^
+
 # >> D <<
 ||amonsul.douban.com^
+
+# >> E <<
+||c.evidon.com^
+
+# >> F <<
+||catalog.fjwhcbsh.com^
+
+# >> G <<
+||beacons.gvt2.com^
+
+# >> H <<
+||api-ad-product.huxiu.com^
+
+# >> I <<
+||api5-normal-quic-lf.ixigua.com^
+
+# >> J <<
+||dsp-x.jd.com^
+
+# >> K <<
+||jswebcollects.kugou.com^
+
+# >> L <<
+||mnqlog.ldmnq.com^
 
 # >> M <<
 ||mmstat.com^
 ||ad.mi.com^
+
+# >> N <<
+||w1.nskwai.com^
+
+# >> O <<
+||w1.oskwai.com^
+
+# >> P <<
+||video-dsp.pddpic.com^
+
+# >> Q <<
+||s1.qq.com^
+||s2.qq.com^
+||s3.qq.com^
+||scdown.qq.com^
+
+# >> R <<
+||w1.rskwai.com^
+
+# >> S <<
+||ws-keyboard.shouji.sogou.com^
+
+# >> T <<
+||tnc3-aliec1.toutiaoapi.com^
+
+# >> U <<
+||applog.uc.cn^
+||alog.umeng.com^
+
+# >> V <<
+||log.vcgame.cn^
 
 # >> W <<
 ||ad.passport.weibo.cn^
@@ -18,3 +86,11 @@
 # >> X <<
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
+
+# >> Y <<
+||geo.yahoo.com^
+
+# >> Z <<
+||log.zijieapi.com^
+||mon.zijieapi.com^
+||mssdk.zijieapi.com^
