@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.06.08.2130
+! Version: 24.06.08.2140
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -8,8 +8,11 @@
 # >> 1 <<
 ||1010pic.com^
 ||ad.12306.cn^
+||ac.dun.163yun.com^
 
 # >> A <<
+||dmtracking.alibaba.com^
+||dmtracking2.alibaba.com^
 ||beacon-api.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||advertising.apple.com^
@@ -52,6 +55,7 @@
 # >> M <<
 ||mmstat.com^
 ||ad.mi.com^
+||events.data.microsoft.com^
 
 # >> N <<
 ||w1.nskwai.com^
@@ -64,6 +68,7 @@
 ||video-dsp.pddpic.com^
 
 # >> Q <<
+||q.i.gdt.qq.com^
 ||oth.eve.mdt.qq.com^
 ||s1.qq.com^
 ||s2.qq.com^
@@ -83,6 +88,7 @@
 # >> U <<
 ||applog.uc.cn^
 ||track.uc.cn^
+||aaid.umeng.com^
 ||alog.umeng.com^
 
 # >> V <<
