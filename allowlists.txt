@@ -1,8 +1,9 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.05.21.2020
+! Version: 24.06.12.1435
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
 # >> A <<
+@@||tv.aiseet.atianqi.com^
