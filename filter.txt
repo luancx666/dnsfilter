@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.06.08.2140
+! Version: 24.06.15.1913
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -13,10 +13,12 @@
 # >> A <<
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
+||guide-acs.m.taobao.com.gds.alibabadns.com^
 ||beacon-api.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||advertising.apple.com^
 ||chinaeast2-0.in.applicationinsights.azure.cn^
+||aiseet.atianqi.com^
 
 # >> B <<
 ||mtj.baidu.com^
@@ -56,6 +58,7 @@
 ||mmstat.com^
 ||ad.mi.com^
 ||events.data.microsoft.com^
+||mmstat.com^
 
 # >> N <<
 ||w1.nskwai.com^
