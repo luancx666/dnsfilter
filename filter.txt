@@ -1,16 +1,20 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.06.15.1913
+! Version: 24.06.19.2250
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
+# >> * <<
+||ulog*.*^
+
 # >> 1 <<
 ||1010pic.com^
 ||ad.12306.cn^
 ||ac.dun.163yun.com^
 
 # >> A <<
+||adkwai.com^
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
 ||guide-acs.m.taobao.com.gds.alibabadns.com^
@@ -22,6 +26,7 @@
 
 # >> B <<
 ||mtj.baidu.com^
+||dig.bdurl.net^
 
 # >> C <<
 ||data.chsmarttv.com^
@@ -36,6 +41,9 @@
 ||catalog.fjwhcbsh.com^
 
 # >> G <<
+||push.gifshow.com^
+||ulogjs.gifshow.com^
+||clientservices.googleapis.com^
 ||beacons.gvt2.com^
 
 # >> H <<
@@ -55,10 +63,11 @@
 ||mnqlog.ldmnq.com^
 
 # >> M <<
-||mmstat.com^
 ||ad.mi.com^
 ||events.data.microsoft.com^
+||g.msn.com^
 ||mmstat.com^
+||msedge.net^
 
 # >> N <<
 ||w1.nskwai.com^
@@ -71,12 +80,18 @@
 ||video-dsp.pddpic.com^
 
 # >> Q <<
-||q.i.gdt.qq.com^
+||aegis.qq.com^
+||gdt.qq.com^
+||l.qq.com^
 ||oth.eve.mdt.qq.com^
+||q.i.gdt.qq.com^
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
 ||scdown.qq.com^
+||sq.bls.mdt.qq.com^
+||trace.qq.com^
+||vv.video.qq.com^
 
 # >> R <<
 ||w1.rskwai.com^
@@ -86,6 +101,7 @@
 ||shouji.sogou.com^
 
 # >> T <<
+||adashbc.ut.taobao.com^
 ||tnc3-aliec1.toutiaoapi.com^
 
 # >> U <<
@@ -99,18 +115,21 @@
 
 # >> W <<
 ||ad.passport.weibo.cn^
+||vs.biz.weibo.com^
 
 # >> X <<
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
 
 # >> Y <<
+||ali-ad.a.yximgs.com^
 ||geo.yahoo.com^
+||ks.pull.yximgs.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
-||ali-ad.a.yximgs.com^
 
 # >> Z <<
 ||log.zijieapi.com^
 ||mon.zijieapi.com^
 ||mssdk.zijieapi.com^
+||tnc3-bjlgy.zijieapi.com^
