@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.06.27.1945
+! Version: 24.07.04.1730
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -25,3 +25,6 @@
 
 # >> Q <<
 @@||mail.qq.com^
+
+# >> T <<
+@@||apoll.m.taobao.com^$important^

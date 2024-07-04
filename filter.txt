@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.06.19.2250
+! Version: 24.07.04.1730
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -21,11 +21,14 @@
 ||beacon-api.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||advertising.apple.com^
+||iadsdk.apple.com^
 ||chinaeast2-0.in.applicationinsights.azure.cn^
 ||aiseet.atianqi.com^
 
 # >> B <<
 ||mtj.baidu.com^
+||nj.t.bcsp2p.baidu.com^
+||data.bilibili.com^
 ||dig.bdurl.net^
 
 # >> C <<
@@ -48,6 +51,7 @@
 
 # >> H <<
 ||api-ad-product.huxiu.com^
+||ylog.huya.com^
 
 # >> I <<
 ||api5-normal-quic-lf.ixigua.com^
@@ -83,15 +87,20 @@
 ||aegis.qq.com^
 ||gdt.qq.com^
 ||l.qq.com^
+||sq.bls.mdt.qq.com^
 ||oth.eve.mdt.qq.com^
 ||q.i.gdt.qq.com^
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
 ||scdown.qq.com^
-||sq.bls.mdt.qq.com^
 ||trace.qq.com^
 ||vv.video.qq.com^
+||unitelogreport.reader.qq.com^
+||sdkconfig.video.qq.com^
+||astrategy.beacon.qq.com^
+||safebrowsing.urlsec.qq.com^
+||ios.rqd.qq.com^
 
 # >> R <<
 ||w1.rskwai.com^
@@ -103,6 +112,7 @@
 # >> T <<
 ||adashbc.ut.taobao.com^
 ||tnc3-aliec1.toutiaoapi.com^
+||tpstelemetry.tencent.com^
 
 # >> U <<
 ||applog.uc.cn^
@@ -127,6 +137,8 @@
 ||ks.pull.yximgs.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
+||ad.youku.com^
+||pcapp-data-collect.youku.com^
 
 # >> Z <<
 ||log.zijieapi.com^
