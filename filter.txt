@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.07.04.1730
+! Version: 24.07.22.1250
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -11,6 +11,7 @@
 # >> 1 <<
 ||1010pic.com^
 ||ad.12306.cn^
+||analytics.163.com^
 ||ac.dun.163yun.com^
 
 # >> A <<
@@ -72,6 +73,7 @@
 ||g.msn.com^
 ||mmstat.com^
 ||msedge.net^
+||windowsupdate.com.mwcname.com^
 
 # >> N <<
 ||w1.nskwai.com^
@@ -111,6 +113,7 @@
 
 # >> T <<
 ||adashbc.ut.taobao.com^
+||df.tanx.com^
 ||tnc3-aliec1.toutiaoapi.com^
 ||tpstelemetry.tencent.com^
 
@@ -125,7 +128,7 @@
 
 # >> W <<
 ||ad.passport.weibo.cn^
-||vs.biz.weibo.com^
+||biz.weibo.com^
 
 # >> X <<
 ||ad.xiaomi.com^
