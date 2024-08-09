@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.08.03.1525
+! Version: 24.08.09.2000
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -38,6 +38,8 @@
 ||data.chsmarttv.com^
 
 # >> D <<
+||grs.dbankcloud.
+||ubacollect-*.cloud.dbankcloud.cn^
 ||amonsul.douban.com^
 ||ad-cache.dopool.com^
 
@@ -54,6 +56,7 @@
 ||beacons.gvt2.com^
 
 # >> H <<
+||logbak.hicloud.com^
 ||api-ad-product.huxiu.com^
 ||ylog.huya.com^
 
@@ -100,6 +103,8 @@
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
+||rs1.qq.com^
+||rs2.qq.com^
 ||scdown.qq.com^
 ||trace.qq.com^
 ||vv.video.qq.com^
