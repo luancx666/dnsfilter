@@ -9,11 +9,11 @@ DNS过滤
 黑名单
 
 ```
-https://gitee.com/luancx/dnsfilter/raw/master/filter.txt
+https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
 ```
 
 白名单
 
 ```angular2html
-https://gitee.com/luancx/dnsfilter/raw/master/allowlists.txt
+https://gitee.com/luancx/dnsfilter/raw/master/allowlist.txt
 ```

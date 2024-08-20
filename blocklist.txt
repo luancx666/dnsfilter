@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.08.09.2000
+! Version: 24.08.20.1550
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -59,6 +59,7 @@
 ||logbak.hicloud.com^
 ||api-ad-product.huxiu.com^
 ||ylog.huya.com^
+||whsmarthome.hwcloudtest.cn^
 
 # >> I <<
 ||api5-normal-quic-lf.ixigua.com^
