@@ -21,7 +21,6 @@
 @@||hdslb.com^
 
 # >> M <<
-@@||log.mmstat.com^
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
 
 # >> Q <<
