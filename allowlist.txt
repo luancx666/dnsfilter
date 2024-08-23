@@ -14,11 +14,10 @@
 # >> D <<
 @@||www.douyin.com^
 
-# >> G <<
-@@||github.com^
-
 # >> H <<
-@@||hdslb.com^
+@@||i0.hdslb.com^
+@@||i1.hdslb.com^
+@@||s1.hdslb.com^
 
 # >> M <<
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
