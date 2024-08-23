@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.08.20.1550
+! Version: 24.08.23.1820
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@
 @@||hdslb.com^
 
 # >> M <<
-@@||log.mmstat.com^|
+@@||log.mmstat.com^
 @@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
 
 # >> Q <<

@@ -14,6 +14,6 @@ https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
 
 白名单
 
-```angular2html
+```
 https://gitee.com/luancx/dnsfilter/raw/master/allowlist.txt
 ```

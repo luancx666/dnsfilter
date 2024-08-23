@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.08.20.1550
+! Version: 24.08.23.1820
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -13,6 +13,9 @@
 ||ad.12306.cn^
 ||analytics.163.com^
 ||ac.dun.163yun.com^
+
+# >> 3 <<
+||bfqde2023llsplde12qd27qdl.384920.com^
 
 # >> A <<
 ||adkwai.com^
@@ -56,6 +59,7 @@
 ||beacons.gvt2.com^
 
 # >> H <<
+||data.hicloud.com^
 ||logbak.hicloud.com^
 ||api-ad-product.huxiu.com^
 ||ylog.huya.com^
@@ -93,6 +97,7 @@
 ||video-dsp.pddpic.com^
 
 # >> Q <<
+||s.qhupdate.com^
 ||ad-cdn.qingting.fm^
 ||aegis.qq.com^
 ||gdt.qq.com^
@@ -127,6 +132,7 @@
 ||df.tanx.com^
 ||tnc3-aliec1.toutiaoapi.com^
 ||tpstelemetry.tencent.com^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||trafficmanager.net^
 
 # >> U <<
