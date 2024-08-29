@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.08.23.1820
+! Version: 24.08.29.2020
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -133,7 +133,6 @@
 ||tnc3-aliec1.toutiaoapi.com^
 ||tpstelemetry.tencent.com^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
-||trafficmanager.net^
 
 # >> U <<
 ||applog.uc.cn^
