@@ -134,6 +134,7 @@
 ||tnc3-aliec1.toutiaoapi.com^
 ||tpstelemetry.tencent.com^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
+||trafficmanager.net^
 
 # >> U <<
 ||applog.uc.cn^
