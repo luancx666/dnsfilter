@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.08.29.2020
+! Version: 24.08.30.1450
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -81,6 +81,7 @@
 # >> M <<
 ||ad.mi.com^
 ||events.data.microsoft.com^
+||fpt.microsoft.com^
 ||g.msn.com^
 ||mmstat.com^
 ||msedge.net^
