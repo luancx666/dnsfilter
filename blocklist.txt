@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.08.30.1550
+! Version: 24.09.15.1220
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -39,6 +39,7 @@
 
 # >> C <<
 ||data.chsmarttv.com^
+||toblog.ctobsnssdk.com^
 
 # >> D <<
 ||grs.dbankcloud.
@@ -136,7 +137,6 @@
 ||tnc3-aliec1.toutiaoapi.com^
 ||tpstelemetry.tencent.com^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
-||trafficmanager.net^
 
 # >> U <<
 ||applog.uc.cn^
