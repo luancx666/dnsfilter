@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.09.15.1220
+! Version: 24.09.17.2215
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -31,6 +31,7 @@
 ||aiseet.atianqi.com^
 
 # >> B <<
+||entry.baidu.com^
 ||mtj.baidu.com^
 ||share.baidu.com^
 ||nj.t.bcsp2p.baidu.com^
@@ -38,6 +39,7 @@
 ||dig.bdurl.net^
 
 # >> C <<
+||cnzz.com^
 ||data.chsmarttv.com^
 ||toblog.ctobsnssdk.com^
 
@@ -104,6 +106,7 @@
 ||s.qhupdate.com^
 ||ad-cdn.qingting.fm^
 ||aegis.qq.com^
+||dns.weixin.qq.com.cn^
 ||gdt.qq.com^
 ||l.qq.com^
 ||mark.l.qq.com^
@@ -113,6 +116,7 @@
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
+||szlong.weixin.qq.com^
 ||rs1.qq.com^
 ||rs2.qq.com^
 ||scdown.qq.com^
