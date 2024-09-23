@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.09.17.2215
+! Version: 24.09.23.1255
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -27,6 +27,7 @@
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||advertising.apple.com^
 ||iadsdk.apple.com^
+||in.appcenter.ms^
 ||chinaeast2-0.in.applicationinsights.azure.cn^
 ||aiseet.atianqi.com^
 
@@ -46,6 +47,7 @@
 # >> D <<
 ||grs.dbankcloud.
 ||ubacollect-*.cloud.dbankcloud.cn^
+||metrics1-drcn.dt.dbankcloud.cn^
 ||amonsul.douban.com^
 ||ad-cache.dopool.com^
 
@@ -69,12 +71,14 @@
 ||whsmarthome.hwcloudtest.cn^
 
 # >> I <<
+||id6.me^
 ||api5-normal-quic-lf.ixigua.com^
 
 # >> J <<
 ||dsp-x.jd.com^
 
 # >> K <<
+||data.kuiniuca.com^
 ||jswebcollects.kugou.com^
 ||youxi.kugou.com^
 
@@ -87,6 +91,7 @@
 ||fpt.microsoft.com^
 ||g.msn.com^
 ||mmstat.com^
+||mobile.pipe.aria.microsoft.com^
 ||msedge.net^
 ||windowsupdate.com.mwcname.com^
 
