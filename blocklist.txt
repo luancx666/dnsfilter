@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.09.23.1255
+! Version: 24.09.23.2000
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -53,6 +53,8 @@
 
 # >> E <<
 ||c.evidon.com^
+||emdcadvertise.eastmoney.com^
+||mobappconfig.securities.eastmoney.com^
 
 # >> F <<
 ||catalog.fjwhcbsh.com^
@@ -91,9 +93,11 @@
 ||fpt.microsoft.com^
 ||g.msn.com^
 ||mmstat.com^
+||log-verify.mob.com^
 ||mobile.pipe.aria.microsoft.com^
 ||msedge.net^
 ||windowsupdate.com.mwcname.com^
+||miaozhen.com^
 
 # >> N <<
 ||w1.nskwai.com^
@@ -132,6 +136,7 @@
 ||astrategy.beacon.qq.com^
 ||safebrowsing.urlsec.qq.com^
 ||ios.rqd.qq.com^
+||tdid.m.qq.com^
 
 # >> R <<
 ||w1.rskwai.com^
@@ -139,6 +144,8 @@
 # >> S <<
 ||get.sogou.com^
 ||shouji.sogou.com^
+||sensorsdata.cn^
+||u1.img.mobile.sina.cn^
 
 # >> T <<
 ||adashbc.ut.taobao.com^
@@ -157,10 +164,12 @@
 ||log.vcgame.cn^
 
 # >> W <<
+||adimg.uve.weibo.com^
 ||ad.passport.weibo.cn^
 ||biz.weibo.com^
 
 # >> X <<
+||crash.xiaohongshu.com^
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
 
