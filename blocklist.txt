@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.09.23.2000
+! Version: 24.09.24.1630
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -36,7 +36,9 @@
 ||mtj.baidu.com^
 ||share.baidu.com^
 ||nj.t.bcsp2p.baidu.com^
+||cm.bilibili.com^
 ||data.bilibili.com^
+||dataflow.biliapi.com^
 ||dig.bdurl.net^
 
 # >> C <<
@@ -48,6 +50,7 @@
 ||grs.dbankcloud.
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||metrics1-drcn.dt.dbankcloud.cn^
+||weather-community-drcn.weather.dbankcloud.cn^
 ||amonsul.douban.com^
 ||ad-cache.dopool.com^
 
@@ -104,6 +107,7 @@
 ||events.gfe.nvidia.com^
 
 # >> O <<
+||omtrdc.net^
 ||w1.oskwai.com^
 
 # >> P <<
@@ -133,7 +137,7 @@
 ||vv.video.qq.com^
 ||unitelogreport.reader.qq.com^
 ||sdkconfig.video.qq.com^
-||astrategy.beacon.qq.com^
+||beacon.qq.com^
 ||safebrowsing.urlsec.qq.com^
 ||ios.rqd.qq.com^
 ||tdid.m.qq.com^
@@ -144,11 +148,14 @@
 # >> S <<
 ||get.sogou.com^
 ||shouji.sogou.com^
+||info.pinyin.sogou.com^
 ||sensorsdata.cn^
 ||u1.img.mobile.sina.cn^
 
 # >> T <<
 ||adashbc.ut.taobao.com^
+||wcp.taobao.com^
+||sjarvis.taobao.com^
 ||df.tanx.com^
 ||tnc3-aliec1.toutiaoapi.com^
 ||tpstelemetry.tencent.com^
@@ -187,3 +194,4 @@
 ||mon.zijieapi.com^
 ||mssdk.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
+||hw.zuimeitianqi.com^
