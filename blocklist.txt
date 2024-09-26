@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.09.24.1630
+! Version: 24.09.26.1520
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -81,6 +81,7 @@
 
 # >> J <<
 ||dsp-x.jd.com^
+||sis-ipv6.jpush.cn^
 
 # >> K <<
 ||data.kuiniuca.com^
@@ -195,3 +196,4 @@
 ||mssdk.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||hw.zuimeitianqi.com^
+||ads*-normal-hl.zijieapi.com^

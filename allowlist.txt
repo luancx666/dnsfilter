@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.08.30.1520
+! Version: 24.09.26.1520
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -41,7 +41,7 @@
 @@||sax.sina.com.cn^
 
 # >> T <<
-@@||apoll.m.taobao.com^$important^
+@@||apoll.m.taobao.com^
 @@||click.simba.taobao.com^
 @@||vscode-sync.trafficmanager.net^
 @@||vscode-sync-insiders.trafficmanager.net^
