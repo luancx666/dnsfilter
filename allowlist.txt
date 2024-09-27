@@ -1,57 +1,12 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.09.26.1520
+! Version: 24.09.27.1255
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
 # >> A <<
 @@||tv.aiseet.atianqi.com^
-
-# >> B <<
-@@||api.bilibili.com^
-
-# >> D <<
-@@||www.douyin.com^
-
-# >> F <<
-@@||firekj.cn^
-
-# >> H <<
-@@||i0.hdslb.com^
-@@||i1.hdslb.com^
-@@||s1.hdslb.com^
-
-# >> L <<
-@@||login.live.com^
-
-# >> M <<
-@@||apps.microsoft.com^
-@@||get.microsoft.com^
-@@||graph.microsoft.com^
-@@||go.microsoft.com^
-@@||licensing.mp.microsoft.com^
-@@||msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com^
-@@||purchase.mp.microsoft.com^
-
-# >> Q <<
-@@||mail.qq.com^
-
-# >> S <<
-@@||sax.sina.com.cn^
-
-# >> T <<
-@@||apoll.m.taobao.com^
-@@||click.simba.taobao.com^
-@@||vscode-sync.trafficmanager.net^
-@@||vscode-sync-insiders.trafficmanager.net^
-
-# >> V <<
-@@||update.code.visualstudio.com^
-@@||marketplace.visualstudio.com^
-
-# >> W <<
-@@||time.windows.com^
 
 # >> Z <<
 @@||static.zongheng.com^
