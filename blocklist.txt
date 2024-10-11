@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.09.27.1255
+! Version: 24.10.11.1525
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -19,27 +19,27 @@
 
 # >> A <<
 ||adkwai.com^
+||in.appcenter.ms^
+||iadsdk.apple.com^
+||aiseet.atianqi.com^
 ||cdn.ynuf.aliapp.org^
+||advertising.apple.com^
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
-||guide-acs.m.taobao.com.gds.alibabadns.com^
 ||beacon-api.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
-||advertising.apple.com^
-||iadsdk.apple.com^
-||in.appcenter.ms^
+||guide-acs.m.taobao.com.gds.alibabadns.com^
 ||chinaeast2-0.in.applicationinsights.azure.cn^
-||aiseet.atianqi.com^
 
 # >> B <<
-||entry.baidu.com^
 ||mtj.baidu.com^
+||dig.bdurl.net^
+||entry.baidu.com^
 ||share.baidu.com^
-||nj.t.bcsp2p.baidu.com^
 ||cm.bilibili.com^
 ||data.bilibili.com^
 ||dataflow.biliapi.com^
-||dig.bdurl.net^
+||nj.t.bcsp2p.baidu.com^
 
 # >> C <<
 ||cnzz.com^
@@ -47,12 +47,11 @@
 ||toblog.ctobsnssdk.com^
 
 # >> D <<
-||grs.dbankcloud.
-||ubacollect-*.cloud.dbankcloud.cn^
-||metrics1-drcn.dt.dbankcloud.cn^
-||weather-community-drcn.weather.dbankcloud.cn^
 ||amonsul.douban.com^
 ||ad-cache.dopool.com^
+||metrics1-drcn.dt.dbankcloud.cn^
+||ubacollect-*.cloud.dbankcloud.cn^
+||weather-community-drcn.weather.dbankcloud.cn^
 
 # >> E <<
 ||c.evidon.com^
@@ -64,15 +63,15 @@
 
 # >> G <<
 ||push.gifshow.com^
+||beacons.gvt2.com^
 ||ulogjs.gifshow.com^
 ||clientservices.googleapis.com^
-||beacons.gvt2.com^
 
 # >> H <<
+||ylog.huya.com^
 ||data.hicloud.com^
 ||logbak.hicloud.com^
 ||api-ad-product.huxiu.com^
-||ylog.huya.com^
 ||whsmarthome.hwcloudtest.cn^
 
 # >> I <<
@@ -84,9 +83,9 @@
 ||sis-ipv6.jpush.cn^
 
 # >> K <<
+||youxi.kugou.com^
 ||data.kuiniuca.com^
 ||jswebcollects.kugou.com^
-||youxi.kugou.com^
 
 # >> L <<
 ||mnqlog.ldmnq.com^
@@ -94,15 +93,15 @@
 # >> M <<
 ||mob.com^
 ||ad.mi.com^
-||events.data.microsoft.com^
-||fpt.microsoft.com^
 ||g.msn.com^
 ||mmstat.com^
-||log-verify.mob.com^
-||mobile.pipe.aria.microsoft.com^
 ||msedge.net^
-||windowsupdate.com.mwcname.com^
 ||miaozhen.com^
+||fpt.microsoft.com^
+||log-verify.mob.com^
+||events.data.microsoft.com^
+||mobile.pipe.aria.microsoft.com^
+||windowsupdate.com.mwcname.com^
 
 # >> N <<
 ||w1.nskwai.com^
@@ -113,62 +112,62 @@
 ||w1.oskwai.com^
 
 # >> P <<
+||video-dsp.pddpic.com^
 ||pangolin-sdk-toutiao*.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
-||video-dsp.pddpic.com^
 
 # >> Q <<
-||s.qhupdate.com^
-||ad-cdn.qingting.fm^
-||aegis.qq.com^
-||dns.weixin.qq.com.cn^
-||gdt.qq.com^
 ||l.qq.com^
-||mark.l.qq.com^
-||sq.bls.mdt.qq.com^
-||oth.eve.mdt.qq.com^
-||q.i.gdt.qq.com^
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
-||szlong.weixin.qq.com^
 ||rs1.qq.com^
 ||rs2.qq.com^
-||scdown.qq.com^
+||gdt.qq.com^
+||aegis.qq.com^
 ||trace.qq.com^
-||vv.video.qq.com^
-||unitelogreport.reader.qq.com^
-||safebrowsing.urlsec.qq.com^
-||sdkconfig.video.qq.com^
 ||beacon.qq.com^
-||safebrowsing.urlsec.qq.com^
-||ios.rqd.qq.com^
+||mark.l.qq.com^
 ||tdid.m.qq.com^
+||scdown.qq.com^
+||q.i.gdt.qq.com^
+||ios.rqd.qq.com^
+||s.qhupdate.com^
+||vv.video.qq.com^
+||sq.bls.mdt.qq.com^
+||oth.eve.mdt.qq.com^
+||ad-cdn.qingting.fm^
+||dns.weixin.qq.com.cn^
+||szlong.weixin.qq.com^
+||sdkconfig.video.qq.com^
+||safebrowsing.urlsec.qq.com^
+||unitelogreport.reader.qq.com^
 
 # >> R <<
 ||w1.rskwai.com^
 
 # >> S <<
+||sentry.io^
 ||get.sogou.com^
+||sensorsdata.cn^
 ||shouji.sogou.com^
 ||info.pinyin.sogou.com^
-||sensorsdata.cn^
 ||u1.img.mobile.sina.cn^
 
 # >> T <<
-||adashbc.ut.taobao.com^
-||umengjmacs.m.taobao.com^
-||umengacs.m.taobao.com^
+||df.tanx.com^
 ||wcp.taobao.com^
 ||sjarvis.taobao.com^
-||df.tanx.com^
-||tnc3-aliec1.toutiaoapi.com^
+||adashbc.ut.taobao.com^
+||umengacs.m.taobao.com^
+||umengjmacs.m.taobao.com^
 ||tpstelemetry.tencent.com^
+||tnc3-aliec1.toutiaoapi.com^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 
 # >> U <<
-||applog.uc.cn^
 ||track.uc.cn^
+||applog.uc.cn^
 ||aaid.umeng.com^
 ||alog.umeng.com^
 
@@ -176,28 +175,28 @@
 ||log.vcgame.cn^
 
 # >> W <<
+||biz.weibo.com^
 ||adimg.uve.weibo.com^
 ||ad.passport.weibo.cn^
-||biz.weibo.com^
 
 # >> X <<
-||crash.xiaohongshu.com^
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
+||crash.xiaohongshu.com^
 
 # >> Y <<
-||ali-ad.a.yximgs.com^
+||ad.youku.com^
 ||geo.yahoo.com^
-||ks.pull.yximgs.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
-||ad.youku.com^
+||ks.pull.yximgs.com^
+||ali-ad.a.yximgs.com^
 ||pcapp-data-collect.youku.com^
 
 # >> Z <<
 ||log.zijieapi.com^
 ||mon.zijieapi.com^
 ||mssdk.zijieapi.com^
-||tnc3-bjlgy.zijieapi.com^
 ||hw.zuimeitianqi.com^
+||tnc3-bjlgy.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
