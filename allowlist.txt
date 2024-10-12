@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.09.27.1255
+! Version: 24.10.12.2325
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -8,5 +8,12 @@
 # >> A <<
 @@||tv.aiseet.atianqi.com^
 
-# >> Z <<
-@@||static.zongheng.com^
+# >> L <<
+@@||storage.live.com^
+
+# >> M <<
+@@||www.msftconnecttest.com^
+@@||settings-win.data.microsoft.com^
+
+# >> S <<
+@@||sax.sina.com.cn^|
