@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.10.12.2325
+! Version: 24.10.30.2020
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -8,10 +8,20 @@
 # >> A <<
 @@||tv.aiseet.atianqi.com^
 
+# >> I <<
+@@||www.iqiyi.com^
+@@||pages.iqiyi.com^
+@@||static.iqiyi.com^
+@@||iface2.iqiyi.com^
+@@||security.iqiyi.com^
+@@||static-lvjing.iqiyi.com^
+@@||pcw-data.video.iqiyi.com^
+
 # >> L <<
 @@||storage.live.com^
 
 # >> M <<
+@@||guide-acs.m.taobao.com^
 @@||www.msftconnecttest.com^
 @@||settings-win.data.microsoft.com^
 
