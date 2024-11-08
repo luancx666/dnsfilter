@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.10.12.2330
+! Version: 24.11.09.0230
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -79,6 +79,7 @@
 ||api5-normal-quic-lf.ixigua.com^
 
 # >> J <<
+||im-x.jd.com^
 ||dsp-x.jd.com^
 ||sis-ipv6.jpush.cn^
 
@@ -134,6 +135,7 @@
 ||ios.rqd.qq.com^
 ||s.qhupdate.com^
 ||vv.video.qq.com^
+||snowflake.qq.com^
 ||sq.bls.mdt.qq.com^
 ||oth.eve.mdt.qq.com^
 ||ad-cdn.qingting.fm^
@@ -151,6 +153,7 @@
 ||get.sogou.com^
 ||sensorsdata.cn^
 ||shouji.sogou.com^
+||hub5pn.wap.sandai.net^
 ||info.pinyin.sogou.com^
 ||u1.img.mobile.sina.cn^
 
@@ -176,6 +179,7 @@
 
 # >> W <<
 ||biz.weibo.com^
+||vs.biz.weibo.com^
 ||adimg.uve.weibo.com^
 ||ad.passport.weibo.cn^
 
