@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.11.09.0230
+! Version: 24.11.09.2050
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -100,6 +100,8 @@
 ||miaozhen.com^
 ||fpt.microsoft.com^
 ||log-verify.mob.com^
+||pubmsg.meituan.com^
+||dreport.meituan.net^
 ||events.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
 ||windowsupdate.com.mwcname.com^
@@ -165,6 +167,7 @@
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
 ||tpstelemetry.tencent.com^
+||pangolin-sdk-toutiao*.com^
 ||tnc3-aliec1.toutiaoapi.com^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 
@@ -178,6 +181,7 @@
 ||log.vcgame.cn^
 
 # >> W <<
+||auth.wosms.cn^
 ||biz.weibo.com^
 ||vs.biz.weibo.com^
 ||adimg.uve.weibo.com^
