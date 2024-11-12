@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.11.09.2050
+! Version: 24.11.13.0050
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -103,6 +103,7 @@
 ||miaozhen.com^
 ||fpt.microsoft.com^
 ||log-verify.mob.com^
+||report.meituan.com^
 ||pubmsg.meituan.com^
 ||dreport.meituan.net^
 ||events.data.microsoft.com^
@@ -164,6 +165,7 @@
 
 # >> T <<
 ||df.tanx.com^
+||log.tec73.com^
 ||wcp.taobao.com^
 ||sjarvis.taobao.com^
 ||adashbc.ut.taobao.com^
@@ -200,6 +202,7 @@
 ||geo.yahoo.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
+||mssdk.volces.com^
 ||ks.pull.yximgs.com^
 ||ali-ad.a.yximgs.com^
 ||pcapp-data-collect.youku.com^
@@ -208,8 +211,10 @@
 ||log.zijieapi.com^
 ||mon.zijieapi.com^
 ||log.zongheng.com^
+||tnc*.zijieapi.com^
 ||h5log.zongheng.com^
 ||mssdk.zijieapi.com^
 ||hw.zuimeitianqi.com^
 ||tnc3-bjlgy.zijieapi.com^
+||ads*-normal-lq.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
