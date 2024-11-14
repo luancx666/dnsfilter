@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.11.13.0050
+! Version: 24.11.14.1230
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -43,6 +43,7 @@
 ||data.bilibili.com^
 ||dataflow.biliapi.com^
 ||nj.t.bcsp2p.baidu.com^
+||*-ad-sign.byteimg.com^
 
 # >> C <<
 ||cnzz.com^
@@ -63,6 +64,8 @@
 
 # >> F <<
 ||catalog.fjwhcbsh.com^
+||log0-applog-lq.fqnovel.com^
+||rtlog5-applog-lq.fqnovel.com^
 
 # >> G <<
 ||push.gifshow.com^
@@ -87,8 +90,10 @@
 ||sis-ipv6.jpush.cn^
 
 # >> K <<
+||s*.kskwai.com^
 ||youxi.kugou.com^
 ||data.kuiniuca.com^
+||log-sdk.ksapisrv.com^
 ||jswebcollects.kugou.com^
 
 # >> L <<
@@ -215,6 +220,9 @@
 ||h5log.zongheng.com^
 ||mssdk.zijieapi.com^
 ||hw.zuimeitianqi.com^
+||feedback-c.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
+||saveu5-normal-lq.zijieapi.com^
+||bsync3-normal-lq.zijieapi.com^
