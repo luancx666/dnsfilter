@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.11.14.1230
+! Version: 24.11.19.1200
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -63,6 +63,7 @@
 ||mobappconfig.securities.eastmoney.com^
 
 # >> F <<
+||fp-it.fengkongcloud.com^
 ||catalog.fjwhcbsh.com^
 ||log0-applog-lq.fqnovel.com^
 ||rtlog5-applog-lq.fqnovel.com^
@@ -90,7 +91,6 @@
 ||sis-ipv6.jpush.cn^
 
 # >> K <<
-||s*.kskwai.com^
 ||youxi.kugou.com^
 ||data.kuiniuca.com^
 ||log-sdk.ksapisrv.com^
