@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.11.19.1640
+! Version: 24.11.19.1650
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -153,6 +153,8 @@
 ||unitelogreport.reader.qq.com^
 
 # >> R <<
+||rs1.qq.com^
+||rs2.qq.com^
 ||w1.rskwai.com^
 
 # >> S <<
@@ -194,7 +196,6 @@
 # >> X <<
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
-||crash.xiaohongshu.com^
 
 # >> Y <<
 ||ad.youku.com^
