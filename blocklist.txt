@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.11.19.1650
+! Version: 24.11.30.0025
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -16,6 +16,7 @@
 ||ad.12306.cn^
 ||analytics.163.com^
 ||ac.dun.163yun.com^
+||img.client.10010.com^
 
 # >> 3 <<
 ||bfqde2023llsplde12qd27qdl.384920.com^
@@ -40,6 +41,7 @@
 ||entry.baidu.com^
 ||share.baidu.com^
 ||cm.bilibili.com^
+||mcdn.bilivideo.cn^
 ||data.bilibili.com^
 ||dataflow.biliapi.com^
 ||nj.t.bcsp2p.baidu.com^
@@ -142,6 +144,7 @@
 ||ios.rqd.qq.com^
 ||s.qhupdate.com^
 ||vv.video.qq.com^
+||logs.game.qq.com^
 ||snowflake.qq.com^
 ||sq.bls.mdt.qq.com^
 ||oth.eve.mdt.qq.com^
@@ -196,6 +199,8 @@
 # >> X <<
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
+||crash.xiaohongshu.com^
+||ads-img-al.xhscdn.com^
 
 # >> Y <<
 ||ad.youku.com^
@@ -212,6 +217,7 @@
 ||mon.zijieapi.com^
 ||log.zongheng.com^
 ||tnc*.zijieapi.com^
+||timon.zijieapi.com^
 ||h5log.zongheng.com^
 ||mssdk.zijieapi.com^
 ||hw.zuimeitianqi.com^
