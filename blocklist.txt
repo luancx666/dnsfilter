@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.11.30.0025
+! Version: 24.11.30.0030
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -36,6 +36,7 @@
 ||chinaeast2-0.in.applicationinsights.azure.cn^
 
 # >> B <<
+||hm.baidu.com^
 ||mtj.baidu.com^
 ||dig.bdurl.net^
 ||entry.baidu.com^
@@ -53,10 +54,15 @@
 ||toblog.ctobsnssdk.com^
 
 # >> D <<
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
 ||amonsul.douban.com^
 ||ad-cache.dopool.com^
+||grs.platform.dbankcloud.ru^
 ||metrics1-drcn.dt.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
+||terms-drcn.platform.dbankcloud.cn^
+||browsercfg-drcn.cloud.dbankcloud.cn^
 ||weather-community-drcn.weather.dbankcloud.cn^
 
 # >> E <<
@@ -144,6 +150,7 @@
 ||ios.rqd.qq.com^
 ||s.qhupdate.com^
 ||vv.video.qq.com^
+||rmonitor.qq.com^
 ||logs.game.qq.com^
 ||snowflake.qq.com^
 ||sq.bls.mdt.qq.com^
@@ -178,6 +185,7 @@
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
 ||tpstelemetry.tencent.com^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 
 # >> U <<
