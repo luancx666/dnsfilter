@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 24.11.30.0030
+! Version: 25.01.05.1540
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -126,6 +126,7 @@
 # >> O <<
 ||omtrdc.net^
 ||w1.oskwai.com^
+||t002.ottcn.com^
 
 # >> P <<
 ||video-dsp.pddpic.com^
