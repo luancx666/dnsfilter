@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.02.07.2045
+! Version: 25.02.07.2055
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -23,6 +23,7 @@
 
 # >> A <<
 ||adkwai.com^
+||adukwai.com^
 ||api.amemv.com^
 ||in.appcenter.ms^
 ||iadsdk.apple.com^
@@ -105,6 +106,8 @@
 
 # >> K <<
 ||ksyunv5.com^
+||s2.kskwai.com^
+||e.kuaishou.com^
 ||youxi.kugou.com^
 ||data.kuiniuca.com^
 ||log-sdk.ksapisrv.com^
@@ -140,6 +143,7 @@
 ||t002.ottcn.com^
 
 # >> P <<
+||t-dsp.pinduoduo.com^
 ||video-dsp.pddpic.com^
 ||pangolin-sdk-toutiao*.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
