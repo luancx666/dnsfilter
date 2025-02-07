@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.01.05.1540
+! Version: 25.02.07.2045
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -23,6 +23,7 @@
 
 # >> A <<
 ||adkwai.com^
+||api.amemv.com^
 ||in.appcenter.ms^
 ||iadsdk.apple.com^
 ||aiseet.atianqi.com^
@@ -87,6 +88,14 @@
 
 # >> I <<
 ||id6.me^
+||v1-dy.ixigua.com^
+||v2-dy.ixigua.com^
+||v3-dy.ixigua.com^
+||v4-dy.ixigua.com^
+||v5-dy.ixigua.com^
+||v6-dy.ixigua.com^
+||v7-dy.ixigua.com^
+||v8-dy.ixigua.com^
 ||api5-normal-quic-lf.ixigua.com^
 
 # >> J <<
@@ -95,10 +104,12 @@
 ||sis-ipv6.jpush.cn^
 
 # >> K <<
+||ksyunv5.com^
 ||youxi.kugou.com^
 ||data.kuiniuca.com^
 ||log-sdk.ksapisrv.com^
 ||jswebcollects.kugou.com^
+||slb-p2p.vcloud.ks-live.com^
 
 # >> L <<
 ||mnqlog.ldmnq.com^
@@ -170,9 +181,19 @@
 
 # >> S <<
 ||sentry.io^
+||i.snssdk.com^
+||is.snssdk.com^
+||lf.snssdk.com^
+||iu.snssdk.com^
 ||get.sogou.com^
 ||sensorsdata.cn^
+||mon.snssdk.com^
+||log.snssdk.com^
+||xlog.snssdk.com^
+||aweme.snssdk.com^
 ||shouji.sogou.com^
+||effect.snssdk.com^
+||hotsoon.snssdk.com^
 ||hub5pn.wap.sandai.net^
 ||info.pinyin.sogou.com^
 ||u1.img.mobile.sina.cn^
@@ -181,6 +202,7 @@
 ||df.tanx.com^
 ||log.tec73.com^
 ||wcp.taobao.com^
+||dm.toutiao.com^
 ||sjarvis.taobao.com^
 ||adashbc.ut.taobao.com^
 ||umengacs.m.taobao.com^
