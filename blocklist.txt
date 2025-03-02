@@ -19,6 +19,7 @@
 ||img.client.10010.com^
 
 # >> 3 <<
+||qurl.f.360.cn^
 ||bfqde2023llsplde12qd27qdl.384920.com^
 
 # >> A <<
@@ -52,8 +53,10 @@
 
 # >> C <<
 ||cnzz.com^
+||ctobsnssdk.com^
 ||data.chsmarttv.com^
 ||toblog.ctobsnssdk.com^
+||cu-cn-north00002.gala.convection.cn^
 
 # >> D <<
 ||grs.dbankcloud.cn^
@@ -150,6 +153,7 @@
 
 # >> Q <<
 ||l.qq.com^
+||ab.qq.com^
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
@@ -168,6 +172,7 @@
 ||vv.video.qq.com^
 ||rmonitor.qq.com^
 ||logs.game.qq.com^
+||logreport.qq.com^
 ||snowflake.qq.com^
 ||sq.bls.mdt.qq.com^
 ||oth.eve.mdt.qq.com^
@@ -175,6 +180,7 @@
 ||dns.weixin.qq.com.cn^
 ||szlong.weixin.qq.com^
 ||sdkconfig.video.qq.com^
+||logreport.reader.qq.com^
 ||safebrowsing.urlsec.qq.com^
 ||unitelogreport.reader.qq.com^
 
@@ -194,6 +200,7 @@
 ||mon.snssdk.com^
 ||log.snssdk.com^
 ||xlog.snssdk.com^
+||ad.us.sinaimg.cn^
 ||aweme.snssdk.com^
 ||shouji.sogou.com^
 ||effect.snssdk.com^
@@ -255,6 +262,7 @@
 ||timon.zijieapi.com^
 ||h5log.zongheng.com^
 ||mssdk.zijieapi.com^
+||pc-mon.zijieapi.com^
 ||hw.zuimeitianqi.com^
 ||feedback-c.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
