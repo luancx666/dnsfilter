@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.02.07.2055
+! Version: 25.03.03.1525
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -14,6 +14,9 @@
 # >> 1 <<
 ||1010pic.com^
 ||ad.12306.cn^
+||crash.163.com^
+||iad.g.163.com^
+||api4.1mobile.com^
 ||analytics.163.com^
 ||ac.dun.163yun.com^
 ||img.client.10010.com^
@@ -50,6 +53,7 @@
 ||dataflow.biliapi.com^
 ||nj.t.bcsp2p.baidu.com^
 ||*-ad-sign.byteimg.com^
+||xy58x215x127x43xy.mcdn.bilivideo.cn^
 
 # >> C <<
 ||cnzz.com^
@@ -81,6 +85,8 @@
 ||push.gifshow.com^
 ||beacons.gvt2.com^
 ||ulogjs.gifshow.com^
+||collector.github.com^
+||google-analytics.com^
 ||clientservices.googleapis.com^
 
 # >> H <<
@@ -166,6 +172,7 @@
 ||mark.l.qq.com^
 ||tdid.m.qq.com^
 ||scdown.qq.com^
+||tmead.y.qq.com^
 ||q.i.gdt.qq.com^
 ||ios.rqd.qq.com^
 ||s.qhupdate.com^
@@ -218,6 +225,7 @@
 ||adashbc.ut.taobao.com^
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
+||adstats.tencentmusic.com^
 ||tpstelemetry.tencent.com^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
@@ -237,6 +245,7 @@
 ||vs.biz.weibo.com^
 ||adimg.uve.weibo.com^
 ||ad.passport.weibo.cn^
+||dm.video.weibocdn.com^
 
 # >> X <<
 ||ad.xiaomi.com^
