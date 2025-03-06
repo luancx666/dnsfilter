@@ -1,7 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.06.2215
+! Version: 25.03.06.2236
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
+! Domain Count: 285
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -31,13 +32,16 @@
 ||in.appcenter.ms^
 ||iadsdk.apple.com^
 ||aiseet.atianqi.com^
+||ca.iadsdk.apple.com^
 ||cdn.ynuf.aliapp.org^
 ||loggw-ex.alipay.com^
+||tr.iadsdk.apple.com^
 ||advertising.apple.com^
 ||dmtracking.alibaba.com^
 ||beacon-api.aliyuncs.com^
 ||dmtracking2.alibaba.com^
 ||dualstack-logs.amap.com^
+||cn-beijing.log.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||guide-acs.m.taobao.com.gds.alibabadns.com^
 ||chinaeast2-0.in.applicationinsights.azure.cn^
@@ -46,20 +50,24 @@
 ||hm.baidu.com^
 ||dig.bdurl.net^
 ||mtj.baidu.com^
+||sp1.baidu.com^
 ||cm.bilibili.com^
 ||entry.baidu.com^
 ||share.baidu.com^
 ||data.bilibili.com^
 ||mcdn.bilivideo.cn^
+||mssdk.bytedance.com^
 ||dataflow.biliapi.com^
 ||*-ad-sign.byteimg.com^
 ||nj.t.bcsp2p.baidu.com^
 ||xy58x215x127x43xy.mcdn.bilivideo.cn^
+||hw-v2-web-player-tracker.biliapi.net^
 
 # >> C <<
 ||cnzz.com^
 ||ctobsnssdk.com^
 ||data.chsmarttv.com^
+||mcs.ctobsnssdk.com^
 ||log2.cmpassport.com^
 ||dns.weixin.qq.com.cn^
 ||toblog.ctobsnssdk.com^
@@ -82,12 +90,18 @@
 ||emdcadvertise.eastmoney.com^
 ||mobappconfig.securities.eastmoney.com^
 
+# >> F <<
+||fp-it.fengkongcloud.com^
+
 # >> G <<
+||pgdt.gtimg.cn^
 ||beacons.gvt2.com^
 ||push.gifshow.com^
+||adsmind.gdtimg.com^
 ||ulogjs.gifshow.com^
 ||collector.github.com^
 ||google-analytics.com^
+||www.google-analytics.com^
 ||clientservices.googleapis.com^
 
 # >> H <<
@@ -120,11 +134,14 @@
 ||e.kuaishou.com^
 ||youxi.kugou.com^
 ||data.kuiniuca.com^
+||open.kuaishouzt.com^
 ||log-sdk.ksapisrv.com^
+||dw-online.ksosoft.com^
 ||jswebcollects.kugou.com^
 ||slb-p2p.vcloud.ks-live.com^
 
 # >> L <<
+||g.live.com^
 ||mnqlog.ldmnq.com^
 
 # >> M <<
@@ -135,18 +152,22 @@
 ||msedge.net^
 ||miaozhen.com^
 ||fpt.microsoft.com^
+||g.cn.miaozhen.com^
 ||log-verify.mob.com^
 ||pubmsg.meituan.com^
 ||report.meituan.com^
 ||dreport.meituan.net^
 ||httpdns.meituan.com^
+||rabbit.meitustat.com^
 ||events.data.microsoft.com^
 ||windowsupdate.com.mwcname.com^
 ||mobile.pipe.aria.microsoft.com^
+||mobile.events.data.microsoft.com^
 
 # >> N <<
 ||w1.nskwai.com^
 ||events.gfe.nvidia.com^
+||vc-gate-edge.ndcpp.com^
 
 # >> O <<
 ||omtrdc.net^
@@ -167,34 +188,64 @@
 ||s2.qq.com^
 ||s3.qq.com^
 ||gdt.qq.com^
+||p.l.qq.com^
 ||rs1.qq.com^
 ||rs2.qq.com^
 ||bsrv.qq.com^
+||us.l.qq.com^
+||vi.l.qq.com^
 ||aegis.qq.com^
+||bugly.qq.com^
+||c.gdt.qq.com^
+||t.gdt.qq.com^
 ||trace.qq.com^
+||v.gdt.qq.com^
+||vd6.l.qq.com^
 ||beacon.qq.com^
+||btrace.qq.com^
 ||mark.l.qq.com^
 ||scdown.qq.com^
+||stat.y.qq.com^
 ||tdid.m.qq.com^
+||vr.gdt.qq.com^
+||data.ab.qq.com^
+||h.trace.qq.com^
 ||ios.rqd.qq.com^
 ||q.i.gdt.qq.com^
+||rpt.gdt.qq.com^
 ||s.qhupdate.com^
 ||tmead.y.qq.com^
+||tp2p.kg.qq.com^
+||appcfg.v.qq.com^
+||ipv4.gdt.qq.com^
 ||rmonitor.qq.com^
 ||vv.video.qq.com^
+||wup.imtt.qq.com^
+||beaconcdn.qq.com^
 ||logreport.qq.com^
 ||logs.game.qq.com^
 ||snowflake.qq.com^
+||beacon.cdn.qq.com^
+||httpdns.kg.qq.com^
 ||sq.bls.mdt.qq.com^
 ||ad-cdn.qingting.fm^
 ||oth.eve.mdt.qq.com^
+||oth.str.mdt.qq.com^
+||sdkreport.e.qq.com^
+||twns.p2ptun.qq.com^
+||mtteve.beacon.qq.com^
+||mttstr.beacon.qq.com^
+||otheve.beacon.qq.com^
 ||szlong.weixin.qq.com^
 ||sdkconfig.video.qq.com^
+||signaltower.gdt.qq.com^
+||astrategy.beacon.qq.com^
 ||logreport.reader.qq.com^
 ||safebrowsing.urlsec.qq.com^
 ||unitelogreport.reader.qq.com^
 
 # >> R <<
+||rumt-zh.com^
 ||w1.rskwai.com^
 
 # >> S <<
@@ -224,8 +275,14 @@
 ||wcp.taobao.com^
 ||c-ztuni.tec73.com^
 ||sjarvis.taobao.com^
+||ad.tencentmusic.com^
+||atoken.m.taobao.com^
+||ef-dongfeng.tanx.com^
 ||adashbc.ut.taobao.com^
 ||umengacs.m.taobao.com^
+||adashxgc.ut.taobao.com^
+||h-adashx.ut.taobao.com^
+||report.tencentmusic.com^
 ||umengjmacs.m.taobao.com^
 ||adstats.tencentmusic.com^
 ||tpstelemetry.tencent.com^
@@ -252,14 +309,18 @@
 ||wbapp.uve.weibo.com^
 ||ad.passport.weibo.cn^
 ||dm.video.weibocdn.com^
+||sdkclick.biz.weibo.com^
 ||kadmimage.biz.weibo.com^
+||sdkaction.biz.weibo.com^
 ||adstrategy.biz.weibo.com^
+||sdkmonitor.biz.weibo.com^
 
 # >> X <<
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
 ||ads-img-al.xhscdn.com^
 ||crash.xiaohongshu.com^
+||spider-tracker.xiaohongshu.com^
 
 # >> Y <<
 ||ad.youku.com^
@@ -273,6 +334,7 @@
 # >> Z <<
 ||log.zijieapi.com^
 ||log.zongheng.com^
+||mcs.zijieapi.com^
 ||mon.zijieapi.com^
 ||tnc*.zijieapi.com^
 ||h5log.zongheng.com^
@@ -282,6 +344,8 @@
 ||pc-mon.zijieapi.com^
 ||feedback-c.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
+||tnc3-aliec2.zijieapi.com^
+||tnc3-alisc1.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 

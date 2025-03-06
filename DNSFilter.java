@@ -73,37 +73,41 @@ public class DNSFilter {
      * @param domainMap 域名数据集合
      */
     public static void writeDomainsToFile(String filePath, Map<Character, Set<String>> domainMap) {
+        int count = 0;
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
+            // 按字母顺序遍历组装字符串
+            List<String> writerList = new ArrayList<>();
+            List<Character> keyList = new ArrayList<>(domainMap.keySet());
+            Collections.sort(keyList);
+            for (Character key : keyList) {
+                // 写入首字母标题
+                writerList.add("# >> " + key + " <<\n");
+                // 写入排序后的域名，首先按一级域名的首字母排序，如果首字母相同，则按域名长度排序
+                List<String> domainList = domainSetToList(domainMap.get(key));
+                for (String s : domainList) {
+                    writerList.add("||" + s + "^\n");
+                    count++;
+                }
+                writerList.add("\n");
+            }
+
             // 写入文件头部
             writer.write("! Title: 黑名单\n");
             writer.write("! Description: 个人使用 Just for personal using\n");
             writer.write("! Version: " + getCurrentFormattedTime() + "\n");
             writer.write("! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt\n");
+            writer.write("! Domain Count: " + count + "\n");
             writer.write("!\n");
             writer.write("!----------------------------------------------------------------------------------------------------------------------\n");
             writer.write("!\n");
 
-            // 按字母顺序遍历
-            domainMap.keySet().stream()
-                    .sorted()
-                    .forEach(initial -> {
-                        try {
-                            // 写入首字母标题
-                            writer.write("# >> " + initial + " <<\n");
-                            List<String> domainList = domainSetToList(domainMap.get(initial));
-                            // 写入排序后的域名，首先按一级域名的首字母排序，如果首字母相同，则按域名长度排序
-                            domainList.forEach(domain -> {
-                                try {
-                                    writer.write("||" + domain + "^\n");
-                                } catch (IOException e) {
-                                    System.out.println("写入文件异常: " + e.getMessage());
-                                }
-                            });
-                            writer.write("\n");
-                        } catch (IOException e) {
-                            System.out.println("写入文件异常: " + e.getMessage());
-                        }
-                    });
+            writerList.forEach(str -> {
+                try {
+                    writer.write(str);
+                } catch (IOException e) {
+                    System.out.println("写入文件异常: " + e.getMessage());
+                }
+            });
         } catch (IOException e) {
             System.err.println("文件操作失败: " + e.getMessage());
         }
