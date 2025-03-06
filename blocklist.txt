@@ -1,6 +1,6 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.03.1525
+! Version: 25.03.06.2000
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/filter.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -29,13 +29,17 @@
 ||adkwai.com^
 ||adukwai.com^
 ||api.amemv.com^
+||logs.amap.com^
+||amdc.alipay.com^
 ||in.appcenter.ms^
 ||iadsdk.apple.com^
 ||aiseet.atianqi.com^
 ||cdn.ynuf.aliapp.org^
+||loggw-ex.alipay.com^
 ||advertising.apple.com^
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
+||dualstack-logs.amap.com^
 ||beacon-api.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||guide-acs.m.taobao.com.gds.alibabadns.com^
@@ -59,6 +63,7 @@
 ||cnzz.com^
 ||ctobsnssdk.com^
 ||data.chsmarttv.com^
+||log2.cmpassport.com^
 ||toblog.ctobsnssdk.com^
 ||cu-cn-north00002.gala.convection.cn^
 
@@ -138,6 +143,7 @@
 ||report.meituan.com^
 ||pubmsg.meituan.com^
 ||dreport.meituan.net^
+||httpdns.meituan.com^
 ||events.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
 ||windowsupdate.com.mwcname.com^
@@ -156,6 +162,7 @@
 ||video-dsp.pddpic.com^
 ||pangolin-sdk-toutiao*.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
+||api-access.pangolin-sdk-toutiao1.com^
 
 # >> Q <<
 ||l.qq.com^
@@ -166,6 +173,7 @@
 ||rs1.qq.com^
 ||rs2.qq.com^
 ||gdt.qq.com^
+||bsrv.qq.com^
 ||aegis.qq.com^
 ||trace.qq.com^
 ||beacon.qq.com^
@@ -221,6 +229,7 @@
 ||log.tec73.com^
 ||wcp.taobao.com^
 ||dm.toutiao.com^
+||c-ztuni.tec73.com^
 ||sjarvis.taobao.com^
 ||adashbc.ut.taobao.com^
 ||umengacs.m.taobao.com^
@@ -242,10 +251,14 @@
 # >> W <<
 ||auth.wosms.cn^
 ||biz.weibo.com^
+||dp.im.weibo.cn^
 ||vs.biz.weibo.com^
 ||adimg.uve.weibo.com^
+||wbapp.uve.weibo.com^
 ||ad.passport.weibo.cn^
 ||dm.video.weibocdn.com^
+||kadmimage.biz.weibo.com^
+||adstrategy.biz.weibo.com^
 
 # >> X <<
 ||ad.xiaomi.com^
