@@ -33,10 +33,13 @@ public class DNSFilter {
             String line;
             while ((line = br.readLine()) != null) {
                 line = line.trim();
-                if (!line.isEmpty() && !line.startsWith("#") && !line.startsWith("!")) {
-                    line = domain(line);
-                    domainMap.computeIfAbsent(getFirstLetter(line), k -> new HashSet<>()).add(line);
+                // 跳过空行和注释行
+                if (line.isEmpty() || line.startsWith("#") || line.startsWith("!")) {
+                    continue;
                 }
+                line = domain(line);
+                // 根据域名首字母分组
+                domainMap.computeIfAbsent(getFirstLetter(line), k -> new HashSet<>()).add(line);
             }
         } catch (IOException e) {
             System.out.println("读取文件异常: " + e.getMessage());
@@ -55,7 +58,7 @@ public class DNSFilter {
     }
 
     /**
-     * 获取域名的首字母（大写形式）
+     * 获取一级域名的首字母（大写形式）
      * 示例："google.com" -> 'G'
      */
     public static char getFirstLetter(String domain) {
