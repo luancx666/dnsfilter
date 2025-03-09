@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.08.1627
+! Version: 25.03.09.1558
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Domain Count: 762
+! Domain Count: 769
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -53,9 +53,24 @@
 ||httpdns.music.163.com^
 ||clientlog*.music.163.com^
 
+# >> 2 <<
+||27082.net^
+
 # >> 3 <<
 ||qurl.f.360.cn^
 ||bfqde2023llsplde12qd27qdl.384920.com^
+
+# >> 5 <<
+||sdk.51.la^
+
+# >> 6 <<
+||617335.com^
+
+# >> 7 <<
+||74933.net^
+
+# >> 8 <<
+||830220.com^
 
 # >> 9 <<
 ||9669.com^
@@ -71,6 +86,7 @@
 ||amdc.alipay.com^
 ||in.appcenter.ms^
 ||iadsdk.apple.com^
+||log.aliyuncs.com^
 ||aiseet.atianqi.com^
 ||ca.iadsdk.apple.com^
 ||cdn.ynuf.aliapp.org^
@@ -118,6 +134,7 @@
 ||dzl.baidu.com^
 ||eiv.baidu.com^
 ||ers.baidu.com^
+||ext.baidu.com^
 ||fcm.baidu.com^
 ||hdj.baidu.com^
 ||hpd.baidu.com^
