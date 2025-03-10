@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.09.1558
+! Version: 25.03.10.1509
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Domain Count: 769
+! Domain Count: 774
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -84,6 +84,7 @@
 ||api.amemv.com^
 ||logs.amap.com^
 ||amdc.alipay.com^
+||cgicol.amap.com^
 ||in.appcenter.ms^
 ||iadsdk.apple.com^
 ||log.aliyuncs.com^
@@ -313,6 +314,7 @@
 ||grs.dbankcloud.cn^
 ||amonsul.douban.com^
 ||grs.dbankcloud.com^
+||shark.dianping.com^
 ||ad-cache.dopool.com^
 ||grs.platform.dbankcloud.ru^
 ||metrics1-drcn.dt.dbankcloud.cn^
@@ -401,6 +403,7 @@
 ||mmstat.com^
 ||msedge.net^
 ||miaozhen.com^
+||fp.msedge.net^
 ||log*.molitv.cn^
 ||fpt.microsoft.com^
 ||g.cn.miaozhen.com^
@@ -601,6 +604,7 @@
 ||sec.video.qq.com^
 ||snowflake.qq.com^
 ||tmfmazu.m.qq.com^
+||wximg.wxs.qq.com^
 ||ad.browser.qq.com^
 ||adsqqclick.qq.com^
 ||adss.video.qq.com^
@@ -748,6 +752,7 @@
 ||umengjmacs.m.taobao.com^
 ||adstats.tencentmusic.com^
 ||tpstelemetry.tencent.com^
+||sensors.cloud.tencent.com^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 
