@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.03.1525
+! Version: 25.03.11.0040
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -10,6 +10,7 @@
 
 # >> B <<
 @@||code.bdstatic.com^
+@@||lf3-static.bytefae.com^
 
 # >> I <<
 @@||www.iqiyi.com^
@@ -17,6 +18,7 @@
 @@||static.iqiyi.com^
 @@||iface2.iqiyi.com^
 @@||security.iqiyi.com^
+@@||yoda.kwd.inkuai.com^
 @@||static-lvjing.iqiyi.com^
 @@||pcw-data.video.iqiyi.com^
 
@@ -29,4 +31,5 @@
 @@||settings-win.data.microsoft.com^
 
 # >> S <<
-@@||sax.sina.com.cn^|
+@@||sax.sina.com.cn^
+@@||f-cpay.snssdk.com^

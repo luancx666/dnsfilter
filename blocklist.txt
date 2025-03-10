@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.10.1708
+! Version: 25.03.11.0040
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Domain Count: 779
+! Domain Count: 783
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -360,6 +360,7 @@
 
 # >> I <<
 ||id6.me^
+||idqqimg.com^
 ||v1-dy.ixigua.com^
 ||v2-dy.ixigua.com^
 ||v3-dy.ixigua.com^
@@ -368,6 +369,7 @@
 ||v6-dy.ixigua.com^
 ||v7-dy.ixigua.com^
 ||v8-dy.ixigua.com^
+||nexus-websocket-a.intercom.io^
 ||api5-normal-quic-lf.ixigua.com^
 ||us.pdc.micloud.xiaomi.net.iberostar.com^
 ||app.chat.global.xiaomi.net.iberostar.com^
@@ -432,6 +434,7 @@
 ||t002.ottcn.com^
 
 # >> P <<
+||pingfore*.*^
 ||t-dsp.pinduoduo.com^
 ||pglstatp-toutiao.com^
 ||video-dsp.pddpic.com^
@@ -454,6 +457,7 @@
 ||ab.qq.com^
 ||ad.qq.com^
 ||ag.qq.com^
+||m.qpic.cn^
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
