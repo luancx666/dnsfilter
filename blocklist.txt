@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.11.0040
+! Version: 25.03.11.0052
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Domain Count: 783
+! Domain Count: 782
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -386,7 +386,6 @@
 
 # >> K <<
 ||ksyunv5.com^
-||s2.kskwai.com^
 ||e.kuaishou.com^
 ||youxi.kugou.com^
 ||data.kuiniuca.com^
