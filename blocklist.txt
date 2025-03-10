@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.10.1509
+! Version: 25.03.10.1708
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Domain Count: 774
+! Domain Count: 779
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -99,6 +99,7 @@
 ||dmtracking2.alibaba.com^
 ||dualstack-logs.amap.com^
 ||cn-beijing.log.aliyuncs.com^
+||device-metrics-*.amazon.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||guide-acs.m.taobao.com.gds.alibabadns.com^
 ||chinaeast2-0.in.applicationinsights.azure.cn^
@@ -311,6 +312,7 @@
 ||cu-cn-north00002.gala.convection.cn^
 
 # >> D <<
+||dwtrack*.*^
 ||grs.dbankcloud.cn^
 ||amonsul.douban.com^
 ||grs.dbankcloud.com^
@@ -597,6 +599,7 @@
 ||as.weixin.qq.com^
 ||beaconcdn.qq.com^
 ||detect.mb.qq.com^
+||ios.bugly.qq.com^
 ||logreport.qq.com^
 ||logs.game.qq.com^
 ||qqdata.ab.qq.com^
@@ -739,6 +742,7 @@
 ||c-ztuni.tec73.com^
 ||sjarvis.taobao.com^
 ||ad.tencentmusic.com^
+||adashx.m.taobao.com^
 ||atoken.m.taobao.com^
 ||partner.toutiao.com^
 ||ef-dongfeng.tanx.com^
@@ -762,6 +766,7 @@
 ||applog.uc.cn^
 ||aaid.umeng.com^
 ||alog.umeng.com^
+||errlog.umeng.com^
 
 # >> V <<
 ||log.vcgame.cn^
