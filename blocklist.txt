@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.13.0042
+! Version: 25.03.13.0048
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Domain Count: 931
+! Domain Count: 934
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -977,6 +977,7 @@
 ||corp.youdao.com^
 ||dsp*.youdao.com^
 ||rlogs.youdao.com^
+||un-acs.youku.com^
 ||union.youdao.com^
 ||gorgon.youdao.com^
 ||ipm.atm.youku.com^
@@ -984,9 +985,11 @@
 ||log.yex.youdao.com^
 ||ali-ad.a.yximgs.com^
 ||orange-dc.youku.com^
+||yk-ssp.ad.youku.com^
 ||clkservice*.youdao.com^
 ||impservice*.youdao.com^
 ||ydpushserver.youdao.com^
+||adx-open-service.youku.com^
 ||pcapp-data-collect.youku.com^
 
 # >> Z <<
