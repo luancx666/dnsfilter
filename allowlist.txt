@@ -1,10 +1,13 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.11.0040
+! Version: 25.03.13.0042
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
+# >> 9 <<
+@@||image.9xsecndns.cn^
+
 # >> A <<
 @@||tv.aiseet.atianqi.com^
 

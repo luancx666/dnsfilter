@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.12.1430
+! Version: 25.03.13.0042
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Domain Count: 786
+! Domain Count: 931
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -57,7 +57,10 @@
 ||27082.net^
 
 # >> 3 <<
+||s.360.cn^
 ||qurl.f.360.cn^
+||wq.360buyimg.com^
+||img1.360buyimg.com^
 ||bfqde2023llsplde12qd27qdl.384920.com^
 
 # >> 5 <<
@@ -81,25 +84,50 @@
 # >> A <<
 ||adkwai.com^
 ||adukwai.com^
+||appjiagu.com^
 ||api.amemv.com^
 ||logs.amap.com^
+||www.adview.cn^
 ||amdc.alipay.com^
 ||cgicol.amap.com^
 ||in.appcenter.ms^
+||media.admob.com^
+||mob.adwhirl.com^
 ||iadsdk.apple.com^
 ||log.aliyuncs.com^
+||report.adview.cn^
+||whoami.akamai.net^
+||abtest.alibaba.com^
 ||aiseet.atianqi.com^
 ||ca.iadsdk.apple.com^
 ||cdn.ynuf.aliapp.org^
 ||loggw-ex.alipay.com^
 ||tr.iadsdk.apple.com^
+||optimus-ads.amap.com^
 ||advertising.apple.com^
+||aiseet.aa.atianqi.com^
 ||dmtracking.alibaba.com^
 ||beacon-api.aliyuncs.com^
 ||dmtracking2.alibaba.com^
 ||dualstack-logs.amap.com^
+||proxy-mob-cld.alicdn.com^
+||nbsdk-baichuan.alicdn.com^
+||livep.l.aiseet.atianqi.com^
+||lives.l.aiseet.atianqi.com^
 ||cn-beijing.log.aliyuncs.com^
 ||device-metrics-*.amazon.com^
+||dp3.play.aiseet.atianqi.com^
+||p-l.play.aiseet.atianqi.com^
+||t-l.play.aiseet.atianqi.com^
+||andrqd.play.aiseet.atianqi.com^
+||btrace.play.aiseet.atianqi.com^
+||mtrace.play.aiseet.atianqi.com^
+||news-l.play.aiseet.atianqi.com^
+||omgmta.play.aiseet.atianqi.com^
+||otheve.play.aiseet.atianqi.com^
+||othstr.play.aiseet.atianqi.com^
+||sdkconfig.play.aiseet.atianqi.com^
+||monitor-uu.play.aiseet.atianqi.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||guide-acs.m.taobao.com.gds.alibabadns.com^
 ||chinaeast2-0.in.applicationinsights.azure.cn^
@@ -301,18 +329,41 @@
 # >> C <<
 ||cnzz.com^
 ||ctobsnssdk.com^
+||cdn.hpplay.com.cn^
+||pb.hd.sohu.com.cn^
 ||data.chsmarttv.com^
 ||mcs.ctobsnssdk.com^
 ||log2.cmpassport.com^
+||vqq.admaster.com.cn^
+||click.hd.sohu.com.cn^
 ||dns.weixin.qq.com.cn^
 ||toblog.ctobsnssdk.com^
 ||toutiao.jxnews.com.cn^
+||vpptv.admaster.com.cn^
+||api.adv.ott.cibntv.net^
+||clickc.admaster.com.cn^
+||pl.cp31.ott.cibntv.net^
+||adxserver.ad.cmvideo.cn^
+||dspserver.ad.cmvideo.cn^
+||ems.cp31.ott.cibntv.net^
+||vali.cp31.ott.cibntv.net^
+||openstorage.ad.cmvideo.cn^
 ||static.wxqcloud.qq.com.cn^
+||ykugc.cp31.ott.cibntv.net^
+||ipm.atm.cp31.ott.cibntv.net^
+||val.atm.cp31.ott.cibntv.net^
+||heyi-acs.cp31.ott.cibntv.net^
+||valf.atm.cp31.ott.cibntv.net^
+||vali-dns.cp31.ott.cibntv.net^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||cu-cn-north00002.gala.convection.cn^
 
 # >> D <<
 ||dwtrack*.*^
+||sm.domob.cn^
+||scc.domob.cn^
+||swx.domob.cn^
+||doubleclick.net^
 ||grs.dbankcloud.cn^
 ||amonsul.douban.com^
 ||grs.dbankcloud.com^
@@ -332,6 +383,10 @@
 ||mobappconfig.securities.eastmoney.com^
 
 # >> F <<
+||ad.flurry.com^
+||ads.flurry.com^
+||adlog.flurry.com^
+||stat.funshion.net^
 ||fp-it.fengkongcloud.com^
 
 # >> G <<
@@ -343,25 +398,39 @@
 ||gzsanxiaomingshi.cn^
 ||collector.github.com^
 ||google-analytics.com^
+||upgrade.ptmi.gitv.tv^
+||t7z.cupid.ptqy.gitv.tv^
 ||www.google-analytics.com^
 ||clientservices.googleapis.com^
 
 # >> H <<
+||adc.hpplay.cn^
 ||ylog.huya.com^
 ||da.hunantv.com^
 ||p2.hunantv.com^
+||adcdn.hpplay.cn^
+||adeng.hpplay.cn^
 ||log.hunantv.com^
 ||res.hunantv.com^
 ||data.hicloud.com^
 ||click.hunantv.com^
 ||log.*.hunantv.com^
 ||logbak.hicloud.com^
+||devicemgr.hpplay.cn^
+||adx.ads.heytapmobi.com^
+||uapi.ads.heytapmobi.com^
 ||api-ad-product.huxiu.com^
+||b1-data.ads.heytapmobi.com^
+||b2-data.ads.heytapmobi.com^
 ||whsmarthome.hwcloudtest.cn^
+||stg-data.ads.heytapmobi.com^
+||adsfs-sdkconfig.heytapimage.com^
 
 # >> I <<
 ||id6.me^
+||irs01.com^
 ||idqqimg.com^
+||ads.icloseli.cn^
 ||v1-dy.ixigua.com^
 ||v2-dy.ixigua.com^
 ||v3-dy.ixigua.com^
@@ -370,6 +439,7 @@
 ||v6-dy.ixigua.com^
 ||v7-dy.ixigua.com^
 ||v8-dy.ixigua.com^
+||t7z.cupid.iqiyi.com^
 ||nexus-websocket-a.intercom.io^
 ||api5-normal-quic-lf.ixigua.com^
 ||us.pdc.micloud.xiaomi.net.iberostar.com^
@@ -381,6 +451,7 @@
 ||us.appbackupapi.micloud.xiaomi.net.iberostar.com^
 
 # >> J <<
+||g.jssdk.net^
 ||im-x.jd.com^
 ||dsp-x.jd.com^
 ||sis-ipv6.jpush.cn^
@@ -400,7 +471,14 @@
 
 # >> L <<
 ||g.live.com^
+||ad.lflucky.com^
+||msg.m.letv.com^
+||dev.dc.letv.com^
+||n.mark.letv.com^
 ||mnqlog.ldmnq.com^
+||test.ark.letv.com^
+||static.app.m.letv.com^
+||api.game.letvstore.com^
 
 # >> M <<
 ||mob.com^
@@ -410,7 +488,12 @@
 ||msedge.net^
 ||miaozhen.com^
 ||fp.msedge.net^
+||m.da.mgtv.com^
+||da.mmarket.com^
 ||log*.molitv.cn^
+||m2.da.mgtv.com^
+||v2.da.mgtv.com^
+||wgo.mmstat.com^
 ||dns.msftncsi.com^
 ||fpt.microsoft.com^
 ||g.cn.miaozhen.com^
@@ -420,11 +503,18 @@
 ||dreport.meituan.net^
 ||httpdns.meituan.com^
 ||rabbit.meitustat.com^
+||t1.market.mi-img.com^
+||t2.market.mi-img.com^
 ||analytics.meituan.net^
+||pptv.m.cn.miaozhen.com^
 ||events.data.microsoft.com^
+||tpptv.ipdx.cn.miaozhen.com^
+||youku-dtv.m.cn.miaozhen.com^
+||tencent-dtv.m.cn.miaozhen.com^
 ||windowsupdate.com.mwcname.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobile.events.data.microsoft.com^
+||vali.cp31.ott.cibntv.net.302.myalicdn.com^
 
 # >> N <<
 ||w1.nskwai.com^
@@ -438,7 +528,22 @@
 
 # >> P <<
 ||pingfore*.*^
+||tj.g.pptv.com^
+||de.as.pptv.com^
+||jp.as.pptv.com^
+||img1.g.pptv.com^
+||img2.g.pptv.com^
+||img3.g.pptv.com^
+||asimgs.pplive.cn^
+||as.aplus.pptv.com^
+||static.g.pptv.com^
+||ads.aplus.pptv.com^
+||app.aplus.pptv.com^
+||ads.data.pplive.com^
+||gas.data.pplive.com^
+||plt.data.pplive.com^
 ||t-dsp.pinduoduo.com^
+||web.data.pplive.com^
 ||pglstatp-toutiao.com^
 ||video-dsp.pddpic.com^
 ||pglstatp-toutiao-b.com^
@@ -707,6 +812,7 @@
 ||report.tv.kohesport.qq.com^
 ||safebrowsing.urlsec.qq.com^
 ||news-l.play.ott.video.qq.com^
+||omgmta.play.ott.video.qq.com^
 ||unitelogreport.reader.qq.com^
 ||搜索 ".qq.com" （1个文件中匹配到215次，总计查找1次） [普通]^
 
@@ -721,21 +827,44 @@
 ||is.snssdk.com^
 ||iu.snssdk.com^
 ||lf.snssdk.com^
+||f.aty.sohu.com^
+||huichuan.sm.cn^
 ||log.snssdk.com^
+||m.aty.sohu.com^
 ||mon.snssdk.com^
+||p.aty.sohu.com^
+||pv.hd.sohu.com^
 ||sensorsdata.cn^
+||v.aty.sohu.com^
+||wl.hd.sohu.com^
+||ctr.hd.sohu.com^
+||pg.aty.sohu.com^
+||pm.aty.sohu.com^
+||vg.aty.sohu.com^
+||vm.aty.sohu.com^
 ||xlog.snssdk.com^
 ||ad.us.sinaimg.cn^
+||agn.aty.sohu.com^
 ||aweme.snssdk.com^
+||fmg.aty.sohu.com^
+||mmg.aty.sohu.com^
 ||shouji.sogou.com^
 ||effect.snssdk.com^
+||click2.hd.sohu.com^
+||count.vrs.sohu.com^
 ||hotsoon.snssdk.com^
+||etl.xlmc.sandai.net^
+||abtest-ch.snssdk.com^
+||vstat.my.tv.sohu.com^
+||download.wan.sohu.com^
 ||hub5pn.wap.sandai.net^
 ||info.pinyin.sogou.com^
 ||u1.img.mobile.sina.cn^
+||vstat.v.blog.sohu.com^
 ||toutiao-frontier.snssdk.com^
 
 # >> T <<
+||tanx.com^
 ||df.tanx.com^
 ||d.toutiao.com^
 ||log.tec73.com^
@@ -745,6 +874,7 @@
 ||wcp.taobao.com^
 ||ads.tencent.com^
 ||dsp.toutiao.com^
+||acs.m.taobao.com^
 ||dm-*.toutiao.com^
 ||c-ztuni.tec73.com^
 ||sjarvis.taobao.com^
@@ -752,17 +882,22 @@
 ||adashx.m.taobao.com^
 ||atoken.m.taobao.com^
 ||partner.toutiao.com^
+||audid-api.taobao.com^
 ||ef-dongfeng.tanx.com^
 ||adashbc.ut.taobao.com^
+||amdcopen.m.taobao.com^
 ||nativeapp.toutiao.com^
 ||umengacs.m.taobao.com^
+||adashx4yt.m.taobao.com^
 ||adashxgc.ut.taobao.com^
 ||h-adashx.ut.taobao.com^
 ||monsetting.toutiao.com^
+||youku-acs.m.taobao.com^
 ||report.tencentmusic.com^
 ||umengjmacs.m.taobao.com^
 ||adstats.tencentmusic.com^
 ||tpstelemetry.tencent.com^
+||acs4baichuan.m.taobao.com^
 ||sensors.cloud.tencent.com^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
@@ -771,9 +906,12 @@
 ||ulog*.*^
 ||track.uc.cn^
 ||applog.uc.cn^
+||px.ucweb.com^
 ||aaid.umeng.com^
 ||alog.umeng.com^
+||image.uczzd.cn^
 ||errlog.umeng.com^
+||ulogs.umengcloud.com^
 
 # >> V <<
 ||log.vcgame.cn^
@@ -798,6 +936,7 @@
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
 ||ssp.xiaomi.com^
+||api.ad.xiaomi.com^
 ||tz.sec.xiaomi.com^
 ||ad.intl.xiaomi.com^
 ||o2o.api.xiaomi.com^
@@ -811,6 +950,10 @@
 ||bss.pandora.xiaomi.com^
 ||dvb.pandora.xiaomi.com^
 ||notice.game.xiaomi.com^
+||t1.a.market.xiaomi.com^
+||t2.a.market.xiaomi.com^
+||tat.pandora.xiaomi.com^
+||cnbj1.fds.api.xiaomi.co^
 ||misc.pandora.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||video.market.xiaomi.com^
@@ -836,9 +979,11 @@
 ||rlogs.youdao.com^
 ||union.youdao.com^
 ||gorgon.youdao.com^
+||ipm.atm.youku.com^
 ||ks.pull.yximgs.com^
 ||log.yex.youdao.com^
 ||ali-ad.a.yximgs.com^
+||orange-dc.youku.com^
 ||clkservice*.youdao.com^
 ||impservice*.youdao.com^
 ||ydpushserver.youdao.com^
