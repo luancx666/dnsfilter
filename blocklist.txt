@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 25.03.11.0052
+! Version: 25.03.12.1430
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Domain Count: 782
+! Domain Count: 786
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -323,6 +323,7 @@
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||terms-drcn.platform.dbankcloud.cn^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
+||httpdns-browser.platform.dbankcloud.cn^
 ||weather-community-drcn.weather.dbankcloud.cn^
 
 # >> E <<
@@ -386,6 +387,8 @@
 
 # >> K <<
 ||ksyunv5.com^
+||s2.kskwai.com^
+||s3.kskwai.com^
 ||e.kuaishou.com^
 ||youxi.kugou.com^
 ||data.kuiniuca.com^
@@ -408,6 +411,7 @@
 ||miaozhen.com^
 ||fp.msedge.net^
 ||log*.molitv.cn^
+||dns.msftncsi.com^
 ||fpt.microsoft.com^
 ||g.cn.miaozhen.com^
 ||log-verify.mob.com^
