@@ -99,7 +99,7 @@ public class DNSFilter {
             writer.write("! Description: 个人使用 Just for personal using\n");
             writer.write("! Version: " + getCurrentFormattedTime() + "\n");
             writer.write("! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt\n");
-            writer.write("! Domain Count: " + count + "\n");
+            writer.write("! Blocked domains: " + count + "\n");
             writer.write("!\n");
             writer.write("!----------------------------------------------------------------------------------------------------------------------\n");
             writer.write("!\n");
@@ -128,9 +128,9 @@ public class DNSFilter {
     /**
      * 获取当前格式化的时间字符串（线程安全）
      *
-     * @return 格式示例：25.03.06.2115
+     * @return 格式示例：202503062115
      */
     public static String getCurrentFormattedTime() {
-        return LocalDateTime.now().format(DateTimeFormatter.ofPattern("yy.MM.dd.HHmm"));
+        return LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyyMMddHHmm"));
     }
 }
