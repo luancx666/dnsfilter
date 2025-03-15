@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 202503151552
+! Version: 202503152236
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Blocked domains: 10993
+! Blocked domains: 10995
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -1635,6 +1635,7 @@
 ||bjldfy.cn^
 ||bjvvqu.cn^
 ||bla01.com^
+||bodis.com^
 ||brixel.cn^
 ||btyou.com^
 ||a.bshu.com^
@@ -2457,6 +2458,7 @@
 ||csaimall.com^
 ||d.cfcnet.top^
 ||domob.com.cn^
+||duiba.com.cn^
 ||ename.com.cn^
 ||epaes.com.cn^
 ||gg.cs090.com^
