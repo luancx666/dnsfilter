@@ -21,9 +21,13 @@
 @@||static.iqiyi.com^
 @@||iface2.iqiyi.com^
 @@||security.iqiyi.com^
-@@||yoda.kwd.inkuai.com^
 @@||static-lvjing.iqiyi.com^
 @@||pcw-data.video.iqiyi.com^
+
+# >> K <<
+@@||s1.kskwai.com^
+@@||s2.kskwai.com^
+@@||s3.kskwai.com^
 
 # >> L <<
 @@||storage.live.com^

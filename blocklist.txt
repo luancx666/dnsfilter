@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 202503151453
+! Version: 202503151552
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Blocked domains: 11005
+! Blocked domains: 10993
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -1708,15 +1708,6 @@
 ||rj.baidu.com^
 ||rp.baidu.com^
 ||su.bdimg.com^
-||t1.baidu.com^
-||t2.baidu.com^
-||t3.baidu.com^
-||t4.baidu.com^
-||t5.baidu.com^
-||t6.baidu.com^
-||t7.baidu.com^
-||t8.baidu.com^
-||t9.baidu.com^
 ||tk.baidu.com^
 ||ug.baidu.com^
 ||wm.baidu.com^
@@ -1846,8 +1837,6 @@
 ||fclog.baidu.com^
 ||gdown.baidu.com^
 ||gg.blueidea.com^
-||gips1.baidu.com^
-||gips2.baidu.com^
 ||iebar.baidu.com^
 ||isite.baidu.com^
 ||jzapi.baidu.com^
@@ -1947,7 +1936,6 @@
 ||data.bilibili.com^
 ||dl2.bav.baidu.com^
 ||dlsw.br.baidu.com^
-||dss2.bdstatic.com^
 ||e.breezily168.com^
 ||goutong.baidu.com^
 ||guanjia.baidu.com^
