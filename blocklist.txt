@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 202503140119
+! Version: 202503151453
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Blocked domains: 11009
+! Blocked domains: 11005
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -5785,9 +5785,6 @@
 ||m1.kuanff.com^
 ||nmobi.kuwo.cn^
 ||p.kf3msfm.com^
-||s1.keytui.com^
-||s2.kskwai.com^
-||s3.kskwai.com^
 ||sdn.kugou.com^
 ||sg.keytui.com^
 ||ssp.kdnet.net^
@@ -10665,7 +10662,6 @@
 ||shared.youdao.com^
 ||ssp.youxiaoad.com^
 ||stat.gw.youmi.net^
-||static.yximgs.com^
 ||tj1.youzanyun.com^
 ||uuidapi.yunos.com^
 ||val.atm.youku.com^
