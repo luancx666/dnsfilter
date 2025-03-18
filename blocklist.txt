@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 202503161439
+! Version: 202503190009
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Blocked domains: 10994
+! Blocked domains: 10993
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -8720,7 +8720,6 @@
 ||sunriseoutdoor.cn^
 ||tjs.sjs.sinajs.cn^
 ||toblog.snssdk.com^
-||tp-pay.snssdk.com^
 ||vjoz.lu.sogou.com^
 ||www.star-media.cn^
 ||zh-cn.shenyun.com^
