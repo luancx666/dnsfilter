@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 202503190009
+! Version: 202503191643
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Blocked domains: 10993
+! Blocked domains: 10992
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -4531,7 +4531,6 @@
 ||tracker.gitee.com^
 ||wmbd.gamersky.com^
 ||www.guangming.org^
-||adsmind.gdtimg.com^
 ||browser.gwdang.com^
 ||click.gamersky.com^
 ||fbapi.guguread.com^

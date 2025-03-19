@@ -1,6 +1,6 @@
 ! Title: 白名单
 ! Description: 个人使用 Just for personal using
-! Version: 202503190009
+! Version: 202503191643
 ! Homepage: https://gitee.com/luancx/dnsfilter/blob/master/allowlists.txt
 !
 !----------------------------------------------------------------------------------------------------------------------
@@ -25,6 +25,9 @@
 @@||static-lvjing.iqiyi.com^
 @@||pcw-data.video.iqiyi.com^
 
+# >> J <<
+@@||img.jbzj.com^
+
 # >> K <<
 @@||s1.kskwai.com^
 @@||s2.kskwai.com^
@@ -41,4 +44,3 @@
 # >> S <<
 @@||sax.sina.com.cn^
 @@||f-cpay.snssdk.com^
-@@||tp-pay.snssdk.com^
