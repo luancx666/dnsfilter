@@ -47,9 +47,15 @@ public class DNSFilter {
         return domainMap;
     }
 
+    /**
+     * 去除多余字符
+     */
     public static String domain(String line) {
         if (line.startsWith("||")) {
             line = line.substring(2);
+        }
+        if (line.endsWith("$important")){
+            line = line.substring(0, line.length() - 10);
         }
         if (line.endsWith("^")) {
             line = line.substring(0, line.length() - 1);

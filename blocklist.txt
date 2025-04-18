@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 202503191643
+! Version: 202504181601
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Blocked domains: 10992
+! Blocked domains: 11002
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -190,6 +190,7 @@
 ||enrichgw.10010.com^
 ||imgsize.ph.126.net^
 ||irpmt.mail.163.com^
+||luodiye.10010ym.cn^
 ||match.p4p.1688.com^
 ||push.yuedu.163.com^
 ||reportappgo.189.cn^
@@ -1080,6 +1081,7 @@
 ||mobi.adsage.com^
 ||music.adcome.cn^
 ||pic6.ajkimg.com^
+||pro.abctougu.cn^
 ||sina.allyes.com^
 ||smjs.allyes.com^
 ||ssdk.adkmob.com^
@@ -1505,6 +1507,7 @@
 ||na2m-pr.licenses.adobe.com^
 ||openmonitor.alipay-eco.com^
 ||static.adsafeprotected.com^
+||vip-unicom.ynuf.aliapp.org^
 ||wwis-dubc1-vip60.adobe.com^
 ||aax-cpm.amazon-adsystem.com^
 ||amap-aos-info-nogw.amap.com^
@@ -4531,6 +4534,7 @@
 ||tracker.gitee.com^
 ||wmbd.gamersky.com^
 ||www.guangming.org^
+||adsmind.gdtimg.com^
 ||browser.gwdang.com^
 ||click.gamersky.com^
 ||fbapi.guguread.com^
@@ -4691,6 +4695,7 @@
 ||hao549.com^
 ||haoweb.top^
 ||heima8.com^
+||heliang.cc^
 ||hemnes.win^
 ||hltqsbl.cn^
 ||hmlkppk.cn^
@@ -4780,6 +4785,7 @@
 ||hats.haibao.cn^
 ||hechaocheng.cn^
 ||hfisngksng.com^
+||huchihuchi.com^
 ||huoying666.com^
 ||i.haloapps.com^
 ||img1.hblds.com^
@@ -5310,6 +5316,7 @@
 ||extmoney.i1608.com^
 ||goto.www.iciba.com^
 ||ifacelog.iqiyi.com^
+||luodiye.ihaoma.icu^
 ||media.yc.ifeng.com^
 ||p1.interestingz.pw^
 ||piccdn.igetget.com^
@@ -5320,6 +5327,7 @@
 ||static.g.iqiyi.com^
 ||talk.nz.igexin.com^
 ||y.one.impact-ad.jp^
+||yinxing.ihaoma.icu^
 ||adshownew.it168.com^
 ||analytics.islide.cc^
 ||api-yuedu.iqiyi.com^
@@ -6168,6 +6176,7 @@
 ||sanme2.lanzoui.com^
 ||adcore.lenovomm.com^
 ||analytics.ly200.com^
+||api.leopardtale.com^
 ||cuiehfwvfy.lbqxi.cn^
 ||data.adobe.l-god.cn^
 ||dc.ads.linkedin.com^
@@ -10246,6 +10255,7 @@
 ||preload.xiaomi.com^
 ||px-itrace.xuexi.cn^
 ||sensors.xeknow.com^
+||staticcdn.xwtec.cn^
 ||test.ad.xiaomi.com^
 ||ww.xiaopiaoyou.com^
 ||www.xmindchina.net^
