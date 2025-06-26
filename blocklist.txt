@@ -1,8 +1,8 @@
 ! Title: 黑名单
 ! Description: 个人使用 Just for personal using
-! Version: 202504181601
+! Version: 202505281407
 ! Homepage: https://gitee.com/luancx/dnsfilter/raw/master/blocklist.txt
-! Blocked domains: 11002
+! Blocked domains: 11016
 !
 !----------------------------------------------------------------------------------------------------------------------
 !
@@ -675,6 +675,7 @@
 ||trail.71baomu.com^
 ||blog.770880520.xyz^
 ||bdcdncmn-gd.inter.71edge.com^
+||alicoccdncnc-hd.inter.71edge.com^
 
 # >> 8 <<
 ||8ox.cn^
@@ -1528,6 +1529,7 @@
 ||arms-retcode-sg.aliyuncs.com^
 ||images.info.alibabacloud.com^
 ||ads-west-colo.adsymptotic.com^
+||gsa.idms-apple.com.akadns.net^
 ||moduleanalysis.aliexpress.com^
 ||report-north-america.agora.io^
 ||127.0.0.1 service.ad.adesk.com^
@@ -1610,11 +1612,13 @@
 ||all-filehub.oss-ap-southeast-1.aliyuncs.com^
 ||coocentpromotion.oss-us-west-1.aliyuncs.com^
 ||chinaeast2-0.in.applicationinsights.azure.cn^
+||apac-asia-courier-4.push-apple.com.akadns.net^
 ||fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com^
 ||logistics-common.oss-ap-southeast-1.aliyuncs.com^
 ||max-admaster-public.oss-cn-hangzhou.aliyuncs.com^
 ||cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com^
 ||dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com^
+||alibaba-cn-pvg-00001.line-isp-province.oss-enet.aliyuncs.com.gds.alibabadns.com^
 
 # >> B <<
 ||bmcm.ml^
@@ -3225,6 +3229,7 @@
 ||trk.miltonroy.com.cn^
 ||tvuser-ch.cedock.com^
 ||view.admaster.com.cn^
+||weixin.hzbank.com.cn^
 ||y66xvgo5i.chuimg.com^
 ||397c0.admaster.com.cn^
 ||58749.admaster.com.cn^
@@ -4348,6 +4353,7 @@
 ||cloudconf.fengkongcloud.com^
 ||aeon.co.jp.playeri.fmkw2w.cn^
 ||rtlog5-applog-lf.fqnovel.com^
+||lf3-reading.fqnovelstatic.com^
 ||fp-na-it-acc.fengkongcloud.com^
 ||fp-sa-it-acc.fengkongcloud.com^
 ||simulatelab-datasink.fzzixun.com^
@@ -4583,6 +4589,7 @@
 ||promotion.gomlab.com^
 ||ulog-sdk.gifshow.com^
 ||upgrade.ptmi.gitv.tv^
+||apigateway.gaodun.com^
 ||appstore.ptmi.gitv.tv^
 ||bdjsym.guangyuanol.cn^
 ||googleoptimize-cn.com^
@@ -4798,6 +4805,7 @@
 ||s4.histats.com^
 ||sdd.hi1718.com^
 ||u8.hujiang.com^
+||wsapi.huya.com^
 ||www.hao934.com^
 ||ylog.hiido.com^
 ||zz2.hslyqs.com^
@@ -4865,6 +4873,7 @@
 ||sta.holagames.com^
 ||stat.house365.com^
 ||static.hotjar.com^
+||static.hx2car.com^
 ||track.hujiang.com^
 ||vatrack.hinet.net^
 ||x1.da.hunantv.com^
@@ -5695,6 +5704,7 @@
 ||www.johnsoncontrols.top^
 ||www.jquerrycdn.download^
 ||www.jquery-cdn.download^
+||opencdnxhsvod.jomodns.com^
 
 # >> K <<
 ||kdeh.cn^
@@ -7473,6 +7483,7 @@
 ||mm.paizi.net^
 ||open.play.cn^
 ||pdfexpert.cc^
+||phone580.com^
 ||pkoplink.com^
 ||pp2.pptv.com^
 ||pxhuiben.com^
@@ -8400,6 +8411,7 @@
 ||sjdfuvz.cn^
 ||smucdn.com^
 ||smxflvz.cn^
+||snssdk.com^
 ||so.sina.cn^
 ||soorbka.cn^
 ||srldkqj.cn^
@@ -9952,6 +9964,7 @@
 ||vipapi.wps.cn^
 ||w.waacorp.com^
 ||webterren.com^
+||whjianxue.com^
 ||willacrit.com^
 ||winbaicai.com^
 ||ad.wang502.com^
@@ -10247,6 +10260,7 @@
 ||adwbs.ximalaya.com^
 ||cdn.exp.xiaomi.com^
 ||ghghgf.xuexiwa.com^
+||gjtf.xuchenmuxi.cn^
 ||gwp.xiaojukeji.com^
 ||imgs.xinhuanet.com^
 ||khrtac.xiangha.com^
